@@ -1,0 +1,44 @@
+[
+  {
+    "scraping_results": {
+      "total_offices_found": 176,
+      "successful_api_calls": 176,
+      "failed_api_calls": 0,
+      "api_success_rate": "100.0%"
+    },
+    "geocoding_results": {
+      "total_addresses_processed": 176,
+      "successfully_geocoded": 156,
+      "failed_geocoding": 20,
+      "geocoding_success_rate": "88.6%"
+    },
+    "mapping_results": {
+      "offices_on_map": 156,
+      "map_file_created": true
+    },
+    "wait_time_stats": {
+      "non_appointment": {
+        "count": 156,
+        "average": 57.1,
+        "min": 0,
+        "max": 210
+      },
+      "appointment": {
+        "count": 156,
+        "average": 15.7,
+        "min": 0,
+        "max": 44
+      }
+    },
+    "improvements_used": [
+      "HTML table parsing (not hardcoded lists)",
+      "Retry logic with exponential backoff",
+      "Random delays between requests (1-3 seconds)",
+      "Connection pooling and keep-alive",
+      "Proper browser headers",
+      "Increased timeout (30 seconds)",
+      "Address geocoding with Nominatim",
+      "Interactive map generation with Folium"
+    ]
+  }
+]
