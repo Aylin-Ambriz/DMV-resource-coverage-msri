@@ -1,177 +1,168 @@
 office_name,address,latitude,longitude,zip_code,zip_area_name,appointment_wait_minutes,walkin_wait_minutes,appointment_wait_str,walkin_wait_str,has_coordinates,processing_date
-Alturas,"903 W C St, Alturas, CA 96101",41.4919116,-120.5498434,96101,Alturas,0,0,0,0,True,2025-07-06 21:35:31
-Arleta,"14400 Van Nuys Blvd, Arleta, CA 91331",34.2479119,-118.4452195,91331,Pacoima,23,79,23,79,True,2025-07-06 21:35:31
-Arvin,"317 Campus Dr., Arvin, CA 93203",35.2112669,-118.8333219,93203,Arvin,28,88,28,88,True,2025-07-06 21:35:31
-Auburn,"11722 Enterprise Dr, Auburn, CA 95603",38.9069626,-121.082718,95603,Auburn,0,0,0,0,True,2025-07-06 21:35:31
-Bakersfield,"3120 F Street, Bakersfield, CA 93301",35.3878084,-119.0233475,93301,Bakersfield,27,80,27,80,True,2025-07-06 21:35:31
-Bakersfield Southwest,"7000 Schirra Ct, Bakersfield, CA 93313",35.3166949,-119.0824896,93313,Bakersfield,32,105,32,105,True,2025-07-06 21:35:31
-Banning,"1034 W. Ramsey Street B, Banning, CA 92220",33.9251,-116.888,92220,Banning,0,0,0,0,True,2025-07-06 21:35:31
-Barstow,"528 E Virginia Way, Barstow, CA 92311",34.8880583,-117.0221984,92311,Barstow,33,108,33,108,True,2025-07-06 21:35:31
-Bell Gardens,"6801 South Garfield, Bell Gardens, CA 90201",33.9699,-118.1497,90201,Bell Gardens,25,77,25,77,True,2025-07-06 21:35:31
-Bellflower,"9520 Artesia Blvd, Bellflower, CA 90706",33.8735882,-118.1312064,90706,Bellflower,22,95,22,95,True,2025-07-06 21:35:31
-Bishop,"1115 West Line Street, Bishop, CA 93514",37.3612988,-118.4125946,93514,Bishop,20,75,20,75,True,2025-07-06 21:35:31
-Blythe,"430 S Broadway, Blythe, CA 92225",33.604257,-114.5965797,92225,Blythe,0,0,0,0,True,2025-07-06 21:35:31
-Brawley,"1175 East Main Street, Brawley, CA 92227",32.9687,-115.5349,92227,Brawley,24,88,24,88,True,2025-07-06 21:35:31
-Capitola,"4200 Capitola Road, Capitola, CA 95010",36.9733283,-121.9628644,95010,Capitola,0,0,0,0,True,2025-07-06 21:35:31
-Carmichael,"5209 North Ave, Carmichael, CA 95608",38.6246816,-121.3428488,95608,Carmichael,39,207,39,207,True,2025-07-06 21:35:31
-Chico,"107 Parmac Rd #1, Chico, CA 95926",39.753,-121.8501,95926,Chico,0,0,0,0,True,2025-07-06 21:35:31
-Chula Vista,"30 N Glover Avenue, Chula Vista, CA 91910",32.6515568,-117.0871361,91910,Chula Vista,19,65,19,65,True,2025-07-06 21:35:31
-Clovis,"2103 Shaw Avenue, Clovis, CA 93611",36.8086485,-119.6757907,93611,Clovis,29,112,29,112,True,2025-07-06 21:35:31
-Coalinga,"406 East Elm Avenue, Coalinga, CA 93210",36.1498381,-120.3544685,93210,Coalinga,0,0,0,0,True,2025-07-06 21:35:31
-Colusa,"1025 Bridge St. STE B, Colusa, CA 95932",39.2034,-122.003,95932,Colusa,0,0,0,0,True,2025-07-06 21:35:31
-Compton,"2111 South Santa Fe Avenue, Compton, CA 90221",33.8755428,-118.2147594,90221,Compton,27,92,27,92,True,2025-07-06 21:35:31
-Concord,"2070 Diamond Boulevard, Concord, CA 94520",37.974272,-122.058025,94520,Concord,33,176,33,176,True,2025-07-06 21:35:31
-Corte Madera,"75 Tamal Vista Boulevard, Corte Madera, CA 94925",37.9347626,-122.5175269,94925,Corte Madera,0,0,0,0,True,2025-07-06 21:35:31
-Costa Mesa,"650 W. 19th Street, Costa Mesa, CA 92627",33.6441741,-117.9255301,92627,Costa Mesa,30,76,30,76,True,2025-07-06 21:35:31
-Crescent City,"1475 Parkway Drive, Crescent City, CA 95531",41.7722968,-124.185051,95531,Crescent City,0,0,0,0,True,2025-07-06 21:35:31
-Culver City,"11400 W Washington Blvd, Culver City, CA 90066",34.0022526,-118.4152258,90066,Los Angeles,23,80,23,80,True,2025-07-06 21:35:31
-Daly City,"1500 Sullivan Avenue, Daly City, CA 94015",37.6892897,-122.4728201,94015,Daly City,0,0,0,0,True,2025-07-06 21:35:31
-Davis,"505 Pole Line Road, Davis, CA 95616",38.5493362,-121.7272127,95616,Davis,44,137,44,137,True,2025-07-06 21:35:31
-Delano,"631 Jefferson Street, Delano, CA 93215",35.7645253,-119.243305,93215,Delano,7,36,7,36,True,2025-07-06 21:35:31
-El Cajon,"1450 Graves Avenue, El Cajon, CA 92021",32.817075,-116.959607,92020,El Cajon,32,87,32,87,True,2025-07-06 21:35:31
-El Centro,"233 N. Imperial Avenue, El Centro, CA 92243",32.7941972,-115.5700878,92243,El Centro,25,67,25,67,True,2025-07-06 21:35:31
-El Cerrito,"6400 Manila Avenue, El Cerrito, CA 94530",37.9160941,-122.3101953,94530,El Cerrito,34,104,34,104,True,2025-07-06 21:35:31
-El Monte,"4000 Arden Drive, El Monte, CA 91731",34.080506,-118.0447674,91731,El Monte,33,162,33,162,True,2025-07-06 21:35:31
-Eureka,"3300 Broadway St, Eureka, CA 95501",40.7796486,-124.1902331,95503,Eureka,0,0,0,0,True,2025-07-06 21:35:31
-Fairfield,"160 Serrano Drive, Fairfield, CA 94533",38.2467028,-122.0729446,94533,Fairfield,36,165,36,165,True,2025-07-06 21:35:31
-Fall River Mills,"43467 Hwy 299E, Fall River Mills, CA 96028",41.0197,-121.4281,96028,Fall River Mills,0,0,0,0,True,2025-07-06 21:35:31
-Folsom,"323 E Bidwell A, Folsom, CA 95630",38.6714289,-121.1765913,95630,Folsom,39,146,39,146,True,2025-07-06 21:35:31
-Fontana,"8026 Hemlock Ave, Fontana, CA 92336",34.1077645,-117.4769676,92336,Fontana,24,131,24,131,True,2025-07-06 21:35:31
-Fontana Commercial Drive Test Center,"10207 Poplar Ave, Fontana, CA 92335",34.0677593,-117.4618815,92335,Fontana,0,65,0,65,True,2025-07-06 21:35:31
-Fort Bragg,"410 S. Franklin Street, Fort Bragg, CA 95437",39.43784,-123.8044686,95437,Fort Bragg,0,0,0,0,True,2025-07-06 21:35:31
-Fremont,"4287 Central Avenue, Fremont, CA 94536",37.553337,-122.0071941,94536,Fremont,0,0,0,0,True,2025-07-06 21:35:31
-Fresno,"655 W. Olive Avenue, Fresno, CA 93728",36.7574376,-119.8193749,93728,Fresno,21,75,21,75,True,2025-07-06 21:35:31
-Fresno Commercial Drive Test Center,"735 E North Ave, Fresno, CA 93725",36.692501,-119.7626569,93725,Fresno,18,49,18,49,True,2025-07-06 21:35:31
-Fresno North,"6420 N Blackstone Avenue, Fresno, CA 93710",36.8305516,-119.790171,93710,Fresno,20,72,20,72,True,2025-07-06 21:35:31
-Fullerton,"909 W. Valencia Drive, Fullerton, CA 92832",33.8666973,-117.9389056,92832,Fullerton,37,133,37,133,True,2025-07-06 21:35:31
-Garberville,"1180 Evergreen Rd, Redway, CA 95560",40.1207,-123.8005,95560,Redway,0,0,0,0,True,2025-07-06 21:35:31
-Gardena Commercial Drive Test Center,"14825 S Avalon Blvd, Gardena, CA 90248",33.8971568,-118.2659639,90248,Gardena,0,47,0,47,True,2025-07-06 21:35:31
-Gilroy,"6984 Automall Parkway Suite A, Gilroy, CA 95020",37.0016,-121.5588,95020,Gilroy,0,0,0,0,True,2025-07-06 21:35:31
-Glendale,"1335 W. Glenoaks Boulevard, Glendale, CA 91201",34.1665512,-118.2836931,91201,Glendale,20,68,20,68,True,2025-07-06 21:35:31
-Goleta,"7127 Hollister Avenue Suite 24/26, Goleta, CA 93117",34.4289,-119.8766,93117,Goleta,20,52,20,52,True,2025-07-06 21:35:31
-Grass Valley,"890 Sutton Way, Grass Valley, CA 95945",39.2300753,-121.0347687,95945,Grass Valley,0,0,0,0,True,2025-07-06 21:35:31
-Hanford,"701 W. Hanford Armona Road (corner of W. Armona), Hanford, CA 93230",36.3277,-119.6459,93230,Hanford,35,103,35,103,True,2025-07-06 21:35:31
-Hawthorne,"3700 W. El Segundo Boulevard, Hawthorne, CA 90250",33.915485,-118.3381227,90250,Hawthorne,34,142,34,142,True,2025-07-06 21:35:31
-Hayward,"150 Jackson Street, Hayward, CA 94544",37.658726,-122.0861069,94544,Hayward,0,0,0,0,True,2025-07-06 21:35:31
-Hemet,"1200 S State St, Hemet, CA 92543",33.7366551,-116.9716073,92543,Hemet,35,59,35,59,True,2025-07-06 21:35:31
-Hollister,"80 N. Sally Street, Hollister, CA 95023",36.8580951,-121.3999161,95023,Hollister,0,0,0,0,True,2025-07-06 21:35:31
-Hollywood,"803 Cole Avenue, Hollywood, CA 90038",34.0855658,-118.3302512,90038,Los Angeles,16,63,16,63,True,2025-07-06 21:35:31
-Indio,"44480 Jackson St, Indio, CA 92201",33.7260855,-116.2162076,92201,Indio,14,48,14,48,True,2025-07-06 21:35:31
-Inglewood,"621 N La Brea Ave, Inglewood, CA 90302",33.9699617,-118.3573163,90302,Inglewood,0,0,0,0,True,2025-07-06 21:35:31
-Jackson,"201 Clinton Road, Jackson, CA 95642",38.341867,-120.76414,95642,Jackson,22,85,22,85,True,2025-07-06 21:35:31
-King City,"101 E San Antonio Dr, King City, CA 93930",36.22174,-121.127408,93930,King City,0,0,0,0,True,2025-07-06 21:35:31
-Laguna Hills,"23535 Moulton Parkway, Laguna Hills, CA 92653",33.6205793,-117.7326262,92653,Laguna Hills,0,0,0,0,True,2025-07-06 21:35:31
-Lake Isabella,"5520 Lake Isabella Road G-1, Lake Isabella, CA 93240",35.6225,-117.6709,93555,Ridgecrest,0,0,0,0,True,2025-07-06 21:35:31
-Lakeport,"965 Parallel Drive, Lakeport, CA 95453",39.0362192,-122.9270646,95453,Lakeport,0,0,0,0,True,2025-07-06 21:35:31
-Lancaster,"721 W Ave L6, Lancaster, CA 93535",34.654619,-118.2577117,93536,Lancaster,19,80,19,80,True,2025-07-06 21:35:31
-Lincoln Park,"3529 N. Mission Road, Los Angeles, CA 90031",34.0680072,-118.2029627,90031,Los Angeles,31,89,31,89,True,2025-07-06 21:35:31
-Lodi,"1222 Pixley Parkway, Lodi, CA 95240",38.1187259,-121.2514912,95240,Lodi,36,151,36,151,True,2025-07-06 21:35:31
-Lompoc,"1601 N H St, Lompoc, CA 93436",34.6643675,-120.4575405,93436,Lompoc,17,51,17,51,True,2025-07-06 21:35:31
-Long Beach,"3700 East Willow Street, Long Beach, CA 90815",33.8036258,-118.1495192,90815,Long Beach,21,84,21,84,True,2025-07-06 21:35:31
-Los Angeles,"3615 S. Hope Street, Los Angeles, CA 90007",34.0179809,-118.2792025,90007,Los Angeles,33,119,33,119,True,2025-07-06 21:35:31
-Los Banos,"814 West L Street, Los Banos, CA 93635",37.0598664,-120.8628147,93635,Los Banos,23,71,23,71,True,2025-07-06 21:35:31
-Los Gatos,"600 N. Santa Cruz Avenue, Los Gatos, CA 95030",37.2338712,-121.9779791,95030,Los Gatos,0,0,0,0,True,2025-07-06 21:35:31
-Madera,"1206 Maple Street, Madera, CA 93637",36.9500102,-120.0736012,93637,Madera,28,102,28,102,True,2025-07-06 21:35:31
-Manteca,"955 Davis Street, Manteca, CA 95336",37.8008036,-121.2299475,95337,Manteca,28,92,28,92,True,2025-07-06 21:35:31
-Mariposa,"5264 Highway 49-North, Mariposa, CA 95338",37.4962,-119.9676,95338,Mariposa,0,0,0,0,True,2025-07-06 21:35:31
-Mendota,"655 Quince Street, Mendota, CA 93640",36.7541616,-120.3825149,93640,Mendota,0,0,0,0,True,2025-07-06 21:35:31
-Merced,"1313 W. 12th Street, Merced, CA 95340",37.3013646,-120.498471,95341,Merced,17,51,17,51,True,2025-07-06 21:35:31
-Modesto,"124 Burney Street, Modesto, CA 95354",37.6391813,-120.988828,95354,Modesto,26,75,26,75,True,2025-07-06 21:35:31
-Montebello,"424 N. Wilcox Avenue, Montebello, CA 90640",34.0194146,-118.1225452,90640,Montebello,21,84,21,84,True,2025-07-06 21:35:31
-Mt Shasta,"154 Morgan Way, Mt Shasta, CA 96067",41.3101068,-122.3167974,96067,Mount Shasta,0,0,0,0,True,2025-07-06 21:35:32
-Napa,"2550 Napa Valley Corporate Drive, Napa, CA 94558",38.2553113,-122.2741058,94558,Napa,21,64,21,64,True,2025-07-06 21:35:32
-Needles,"1040 E Broadway St, Needles, CA 92363",34.8219178,-114.5980495,92363,Needles,17,64,17,64,True,2025-07-06 21:35:32
-Newhall,"24427 Newhall Avenue, Newhall, CA 91321",34.3795136,-118.5331728,91321,Newhall,30,111,30,111,True,2025-07-06 21:35:32
-Norco,"3201 Horseless Carriage Drive, Norco, CA 92860",33.9282315,-117.5612436,92860,Norco,35,126,35,126,True,2025-07-06 21:35:32
-Novato,"936 7th Street A, Novato, CA 94947",38.107684,-122.5775259,94945,Novato,0,0,0,0,True,2025-07-06 21:35:32
-Oakland,"5300 Claremont Avenue, Oakland, CA 94618",37.8399089,-122.2594145,94618,Oakland,0,0,0,0,True,2025-07-06 21:35:32
-Oakland Coliseum,"501 85th Ave, Oakland, CA 94621",37.7395654,-122.1931858,94621,Oakland,0,0,0,0,True,2025-07-06 21:35:32
-Oceanside,"4005 Plaza Drive, Oceanside, CA 92056",33.1820467,-117.2935316,92056,Oceanside,34,117,34,117,True,2025-07-06 21:35:32
-Oroville,"775 Mitchell Avenue, Oroville, CA 95965",39.5043404,-121.5654114,95965,Oroville,0,0,0,0,True,2025-07-06 21:35:32
-Oxnard,"4050 Saviers Road, Oxnard, CA 93033",34.1625197,-119.1775613,93033,Oxnard,25,70,25,70,True,2025-07-06 21:35:32
-Pacoima Driver License Processing Center (DL Only),"11623 Glenoaks Blvd, Pacoima, CA 91331",34.280988,-118.419548,91331,Pacoima,0,0,0,0,True,2025-07-06 21:35:32
-Palm Desert,"74-740 Technology Drive, Palm Desert, CA 92211",33.7853,-116.3566,92211,Palm Desert,23,73,23,73,True,2025-07-06 21:35:32
-Palm Springs,"950 N. Farrell Drive, Palm Springs, CA 92262",33.835961,-116.51912,92262,Palm Springs,25,79,25,79,True,2025-07-06 21:35:32
-Pasadena,"49 S. Rosemead Boulevard, Pasadena, CA 91107",34.1581527,-118.0812212,91107,Pasadena,17,68,17,68,True,2025-07-06 21:35:32
-Paso Robles,"841 Park Street, Paso Robles, CA 93446",35.6232165,-120.6901458,93446,Paso Robles,22,46,22,46,True,2025-07-06 21:35:32
-Petaluma,"715 - J Southpoint Boulevard, Petaluma, CA 94954",38.2618937,-122.6470141,94954,Petaluma,0,0,0,0,True,2025-07-06 21:35:32
-Pittsburg,"1399 Buchanan Road, Pittsburg, CA 94565",37.9988406,-121.8717976,94565,Pittsburg,0,0,0,0,True,2025-07-06 21:35:32
-Placerville,"2919 Cold Springs Road, Placerville, CA 95667",38.7339757,-120.8247423,95667,Placerville,0,0,0,0,True,2025-07-06 21:35:32
-Pleasanton,"6300 W Las Positas Blvd, Pleasanton, CA 94588",37.6801625,-121.9057656,94588,Pleasanton,0,0,0,0,True,2025-07-06 21:35:32
-Pomona,"1600 S. Garey Avenue, Pomona, CA 91766",34.0421407,-117.7490612,91766,Pomona,37,142,37,142,True,2025-07-06 21:35:32
-Porterville,"329 E. Olive Avenue, Porterville, CA 93257",36.0652057,-119.0105966,93257,Porterville,19,49,19,49,True,2025-07-06 21:35:32
-Poway,"13461 Community Road, Poway, CA 92064",32.959845,-117.0400207,92064,Poway,30,90,30,90,True,2025-07-06 21:35:32
-Quincy,"1953 E. Main Street Suite 3, Quincy, CA 95971",39.9347,-120.9027,95971,Quincy,0,0,0,0,True,2025-07-06 21:35:32
-Rancho Cucamonga,"8629 Hellman Avenue, Rancho Cucamonga, CA 91730",34.0970954,-117.6015682,91730,Rancho Cucamonga,18,68,18,68,True,2025-07-06 21:35:32
-Rancho San Diego Industry Business Center,"1901 Jamacha Road, El Cajon, CA 92019",32.7577935,-116.9242379,92019,El Cajon,0,0,0,0,True,2025-07-06 21:35:32
-Red Bluff,"675 Monroe Street, Red Bluff, CA 96080",40.1750942,-122.2388972,96080,Red Bluff,0,0,0,0,True,2025-07-06 21:35:32
-Redding,"2135 Civic Center Drive, Redding, CA 96001",40.5752511,-122.3806372,96001,Redding,0,0,0,0,True,2025-07-06 21:35:32
-Redlands,"1659 W Lugonia Avenue, Redlands, CA 92374",34.0698816,-117.2125604,92374,Redlands,30,137,30,137,True,2025-07-06 21:35:32
-Redwood City,"300 Brewster Avenue, Redwood City, CA 94063",37.4926004,-122.2290212,94063,Redwood City,0,0,0,0,True,2025-07-06 21:35:32
-Reedley,"558 E. Dinuba Avenue, Reedley, CA 93654",36.5897862,-119.4438796,93654,Reedley,30,73,30,73,True,2025-07-06 21:35:32
-Ridgecrest,"540A Perdew Avenue, Ridgecrest, CA 93555",35.6489629,-117.6844348,93555,Ridgecrest,12,50,12,50,True,2025-07-06 21:35:32
-Riverside,"6280 Brockton Avenue, Riverside, CA 92506",33.9579912,-117.3966504,92506,Riverside,33,93,33,93,True,2025-07-06 21:35:32
-Riverside East,"6425 Sycamore Canyon Blvd., Riverside, CA 92507",33.9295012,-117.2966057,92507,Riverside,31,124,31,124,True,2025-07-06 21:35:32
-Rocklin,"5245 South Grove, Rocklin, CA 95677",38.7870239,-121.2322377,95677,Rocklin,0,0,0,0,True,2025-07-06 21:35:32
-Roseville,"7200 Galilee Road, Roseville, CA 95678",38.7762864,-121.3048028,95678,Roseville,0,0,0,0,True,2025-07-06 21:35:32
-Sacramento,"4700 Broadway, Sacramento, CA 95820",38.5466646,-121.4514468,95820,Sacramento,0,0,0,0,True,2025-07-06 21:35:32
-Sacramento South,"7775 La Mancha Way, Sacramento, CA 95823",38.4748413,-121.4270625,95823,Sacramento,0,0,0,0,True,2025-07-06 21:35:32
-Salinas,"260 E. Laurel Drive, Salinas, CA 93906",36.6986106,-121.6482819,93906,Salinas,0,0,0,0,True,2025-07-06 21:35:32
-San Andreas,"745 Mountain Ranch Rd, San Andreas, CA 95249",38.1907133,-120.6709838,95249,San Andreas,0,0,0,0,True,2025-07-06 21:35:32
-San Bernardino,"1310 N. Waterman Avenue, San Bernardino, CA 92404",34.1239515,-117.2789031,92404,San Bernardino,24,77,24,77,True,2025-07-06 21:35:32
-San Clemente,"2727 Via Cascadita, San Clemente, CA 92672",33.4427619,-117.6422827,92672,San Clemente,28,91,28,91,True,2025-07-06 21:35:32
-San Diego,"3960 Normal Street, San Diego, CA 92103",32.7505319,-117.1493036,92103,San Diego,35,112,35,112,True,2025-07-06 21:35:32
-San Diego Clairemont,"4375 Derrick Drive, San Diego, CA 92117",32.8234218,-117.183198,92117,San Diego,34,74,34,74,True,2025-07-06 21:35:32
-San Francisco,"1377 Fell Street, San Francisco, CA 94117",37.7733329,-122.440471,94117,San Francisco,0,0,0,0,True,2025-07-06 21:35:32
-San Jose,"111 W. Alma Avenue, San Jose, CA 95110",37.3150335,-121.8768198,95110,San Jose,0,0,0,0,True,2025-07-06 21:35:32
-San Jose Driver License Processing Center (DL Only),"2222 Senter Rd, San Jose, CA 95112",37.3113175,-121.8498671,95112,San Jose,0,0,0,0,True,2025-07-06 21:35:32
-San Luis Obispo,"3190 S. Higuera Street, San Luis Obispo, CA 93401",35.2574365,-120.6691667,93401,San Luis Obispo,17,54,17,54,True,2025-07-06 21:35:32
-San Marcos,"590 Rancheros Dr, San Marcos, CA 92069",33.1404943,-117.147493,92069,San Marcos,36,136,36,136,True,2025-07-06 21:35:32
-San Mateo,"425 N. Amphlett Boulevard, San Mateo, CA 94401",37.5786959,-122.3240832,94401,San Mateo,0,0,0,0,True,2025-07-06 21:35:32
-San Pedro,"1511 N. Gaffey Street, San Pedro, CA 90731",33.750113,-118.2936862,90731,San Pedro,29,123,29,123,True,2025-07-06 21:35:32
-San Ysidro,"6111 Business Center Court, San Diego, CA 92154",32.5688401,-117.003223,92154,San Diego,38,110,38,110,True,2025-07-06 21:35:32
-Santa Ana,"1330 E. First Street, Santa Ana, CA 92701",33.7455,-117.8677,92701,Santa Ana,36,140,36,140,True,2025-07-06 21:35:32
-Santa Barbara,"535 Castillo Street, Santa Barbara, CA 93101",34.413092,-119.7013336,93101,Santa Barbara,15,51,15,51,True,2025-07-06 21:35:32
-Santa Clara,"3665 Flora Vista Ave, Santa Clara, CA 95051",37.3502362,-121.9940407,95051,Santa Clara,0,0,0,0,True,2025-07-06 21:35:32
-Santa Maria,"523 S. McClelland Street, Santa Maria, CA 93454",34.9481811,-120.434446,93454,Santa Maria,0,0,0,0,True,2025-07-06 21:35:32
-Santa Monica,"2235 Colorado Avenue, Santa Monica, CA 90404",34.0281966,-118.4750918,90404,Santa Monica,15,51,15,51,True,2025-07-06 21:35:32
-Santa Paula,"250 W. Harvard Boulevard A, Santa Paula, CA 93060",34.3466047,-119.0710525,93060,Santa Paula,19,62,19,62,True,2025-07-06 21:35:32
-Santa Rosa,"1350 Bennett Valley Rd, Santa Rosa, CA 95404",38.4323083,-122.7013279,95404,Santa Rosa,0,0,0,0,True,2025-07-06 21:35:32
-Santa Teresa,"180 Martinvale Lane, San Jose, CA 95119",37.2297302,-121.778026,95119,San Jose,0,0,0,0,True,2025-07-06 21:35:32
-Seaside,"1180 Canyon Del Rey Blvd, Seaside, CA 93955",36.6020192,-121.8535591,93955,Seaside,0,0,0,0,True,2025-07-06 21:35:32
-Shafter,"548 Walker Street, Shafter, CA 93263",35.5034093,-119.2726223,93263,Shafter,23,76,23,76,True,2025-07-06 21:35:32
-Simi Valley,"3855 D - Alamo Street, Simi Valley, CA 93063",34.2869377,-118.7230518,93063,Simi Valley,22,59,22,59,True,2025-07-06 21:35:32
-Sonora,"885 Morning Star Drive, Sonora, CA 95370",37.9844523,-120.370079,95370,Sonora,37,210,37,210,True,2025-07-06 21:35:32
-South Lake Tahoe,"3344 B Lake Tahoe Boulevard, South Lake Tahoe, CA 96150",38.9422951,-119.977218,96150,South Lake Tahoe,24,140,24,140,True,2025-07-06 21:35:32
-Stockton,"55 South Lincoln Street, Stockton, CA 95203",37.9506234,-121.2978046,95203,Stockton,33,141,33,141,True,2025-07-06 21:35:32
-Susanville,"2615 Main Street, Susanville, CA 96130",40.4124129,-120.63774,96130,Susanville,0,0,0,0,True,2025-07-06 21:35:32
-Taft,"165 Center Street, Taft, CA 93268",35.139155,-119.4537028,93268,Taft,0,0,0,0,True,2025-07-06 21:35:32
-Temecula,"27851 Diaz Road, Temecula, CA 92590",33.5064849,-117.16081,92590,Temecula,27,92,27,92,True,2025-07-06 21:35:32
-Thousand Oaks,"1810 E. Avenida De Los Arboles, Thousand Oaks, CA 91362",34.2108064,-118.8441882,91362,Thousand Oaks,13,43,13,43,True,2025-07-06 21:35:32
-Torrance,"1785 W. 220th Street, Torrance, CA 90501",33.8284982,-118.3110832,90501,Torrance,32,166,32,166,True,2025-07-06 21:35:32
-Tracy,"2785 Auto Plaza Drive, Tracy, CA 95304",37.7623237,-121.46491,95304,Tracy,36,163,36,163,True,2025-07-06 21:35:32
-Truckee,"11357 Donner Pass Road Suite I, Truckee, CA 96162",39.328,-120.1833,96161,Truckee,0,0,0,0,True,2025-07-06 21:35:32
-Tulare,"274 E Cross Avenue, Tulare, CA 93274",36.2137523,-119.3462192,93274,Tulare,13,43,13,43,True,2025-07-06 21:35:32
-Tulelake,"399 Main Street, Tulelake, CA 96134",41.956179,-121.476851,96134,Tulelake,0,0,0,0,True,2025-07-06 21:35:32
-Turlock,"825 E. Monte Vista Avenue, Turlock, CA 95382",37.5225903,-120.8393802,95382,Turlock,26,73,26,73,True,2025-07-06 21:35:32
-Twentynine Palms,"3668 Adobe Road G-J, Twentynine Palms, CA 92277",34.1872,-116.0554,92277,Twentynine Palms,7,44,7,44,True,2025-07-06 21:35:32
-Ukiah,"542 S. Orchard Avenue, Ukiah, CA 95482",39.1472515,-123.1986456,95482,Ukiah,0,0,0,0,True,2025-07-06 21:35:32
-Vacaville,"621 Orange Drive, Vacaville, CA 95687",38.3708292,-121.9540155,95687,Vacaville,33,82,33,82,True,2025-07-06 21:35:32
-Vallejo,"200 Couch Street, Vallejo, CA 94590",38.1174069,-122.251644,94590,Vallejo,36,172,36,172,True,2025-07-06 21:35:33
-Van Nuys,"14920 Vanowen Street, Van Nuys, CA 91405",34.1934052,-118.458334,91405,Van Nuys,26,98,26,98,True,2025-07-06 21:35:33
-Ventura,"4260 Market Street, Ventura, CA 93003",34.2572009,-119.2359133,93003,Ventura,17,43,17,43,True,2025-07-06 21:35:33
-Victorville,"14855 Corta Drive, Victorville, CA 92395",34.519495,-117.3059783,92395,Victorville,30,96,30,96,True,2025-07-06 21:35:33
-Visalia,"1711 East Main Street, Visalia, CA 93292",36.3301299,-119.273983,93292,Visalia,23,79,23,79,True,2025-07-06 21:35:33
-Walnut Creek,"1910 N. Broadway, Walnut Creek, CA 94596",37.9053353,-122.0612021,94596,Walnut Creek,0,0,0,0,True,2025-07-06 21:35:33
-Watsonville,"90 Alta Vista Avenue, Watsonville, CA 95076",36.9270173,-121.7682791,95076,Watsonville,0,0,0,0,True,2025-07-06 21:35:33
-Weaverville,"1511 Main Street, Weaverville, CA 96093",40.7188554,-122.9273881,96093,Weaverville,0,0,0,0,True,2025-07-06 21:35:33
-West Covina,"800 So. Glendora Avenue, West Covina, CA 91790",34.0611,-117.9315,91790,West Covina,32,157,32,157,True,2025-07-06 21:35:33
-West Hollywood,"936 N Formosa Ave, West Hollywood, CA 90046",34.0882928,-118.34576,90046,Los Angeles,3,18,3,18,True,2025-07-06 21:35:33
-West Sacramento Commercial Drive Test Center,"2528 Evergreen Avenue, West Sacramento, CA 95691",38.5771185,-121.5448565,95691,West Sacramento,0,0,0,0,True,2025-07-06 21:35:33
-Westminster,"13700 Hoover Street, Westminster, CA 92683",33.7641619,-117.997931,92683,Westminster,28,103,28,103,True,2025-07-06 21:35:33
-Whittier,"9338 S. Painter Avenue, Whittier, CA 90605",33.9525,-118.043,90605,Whittier,31,99,31,99,True,2025-07-06 21:35:33
-Willows,"815 N. Humboldt Avenue, Willows, CA 95988",39.5290236,-122.2119494,95988,Willows,0,0,0,0,True,2025-07-06 21:35:33
-Winnetka,"20725 Sherman Way, Winnetka, CA 91306",34.2012483,-118.5847026,91306,Winnetka,21,75,21,75,True,2025-07-06 21:35:33
-Woodland,"825 East St, Suite 306, CA 95776",38.6626,-121.7645,95776,Woodland,0,0,0,0,True,2025-07-06 21:35:33
-Yreka,"1848 Fort Jones Rd, Yreka, CA 96097",41.7017094,-122.6460698,96097,Yreka,0,0,0,0,True,2025-07-06 21:35:33
-Yuba City,"1570 Poole Boulevard, Yuba City, CA 95993",39.1446272,-121.6427742,95993,Yuba City,0,0,0,0,True,2025-07-06 21:35:33
+Alturas,"903 W C St, Alturas, CA 96101",41.4919116,-120.5498434,96101,Alturas,0,0,0,0,TRUE,7/6/25 21:35
+Arleta,"14400 Van Nuys Blvd, Arleta, CA 91331",34.2479119,-118.4452195,91331,Pacoima,23,79,23,79,TRUE,7/6/25 21:35
+Arvin,"317 Campus Dr., Arvin, CA 93203",35.2112669,-118.8333219,93203,Arvin,28,88,28,88,TRUE,7/6/25 21:35
+Auburn,"11722 Enterprise Dr, Auburn, CA 95603",38.9069626,-121.082718,95603,Auburn,0,0,0,0,TRUE,7/6/25 21:35
+Bakersfield,"3120 F Street, Bakersfield, CA 93301",35.3878084,-119.0233475,93301,Bakersfield,27,80,27,80,TRUE,7/6/25 21:35
+Bakersfield Southwest,"7000 Schirra Ct, Bakersfield, CA 93313",35.3166949,-119.0824896,93313,Bakersfield,32,105,32,105,TRUE,7/6/25 21:35
+Barstow,"528 E Virginia Way, Barstow, CA 92311",34.8880583,-117.0221984,92311,Barstow,33,108,33,108,TRUE,7/6/25 21:35
+Bell Gardens,"6801 South Garfield, Bell Gardens, CA 90201",33.9699,-118.1497,90201,Bell Gardens,25,77,25,77,TRUE,7/6/25 21:35
+Bellflower,"9520 Artesia Blvd, Bellflower, CA 90706",33.8735882,-118.1312064,90706,Bellflower,22,95,22,95,TRUE,7/6/25 21:35
+Bishop,"1115 West Line Street, Bishop, CA 93514",37.3612988,-118.4125946,93514,Bishop,20,75,20,75,TRUE,7/6/25 21:35
+Blythe,"430 S Broadway, Blythe, CA 92225",33.604257,-114.5965797,92225,Blythe,0,0,0,0,TRUE,7/6/25 21:35
+Brawley,"1175 East Main Street, Brawley, CA 92227",32.9687,-115.5349,92227,Brawley,24,88,24,88,TRUE,7/6/25 21:35
+Carmichael,"5209 North Ave, Carmichael, CA 95608",38.6246816,-121.3428488,95608,Carmichael,39,207,39,207,TRUE,7/6/25 21:35
+Chico,"107 Parmac Rd #1, Chico, CA 95926",39.753,-121.8501,95926,Chico,0,0,0,0,TRUE,7/6/25 21:35
+Chula Vista,"30 N Glover Avenue, Chula Vista, CA 91910",32.6515568,-117.0871361,91910,Chula Vista,19,65,19,65,TRUE,7/6/25 21:35
+Clovis,"2103 Shaw Avenue, Clovis, CA 93611",36.8086485,-119.6757907,93611,Clovis,29,112,29,112,TRUE,7/6/25 21:35
+Coalinga,"406 East Elm Avenue, Coalinga, CA 93210",36.1498381,-120.3544685,93210,Coalinga,0,0,0,0,TRUE,7/6/25 21:35
+Colusa,"1025 Bridge St. STE B, Colusa, CA 95932",39.2034,-122.003,95932,Colusa,0,0,0,0,TRUE,7/6/25 21:35
+Compton,"2111 South Santa Fe Avenue, Compton, CA 90221",33.8755428,-118.2147594,90221,Compton,27,92,27,92,TRUE,7/6/25 21:35
+Concord,"2070 Diamond Boulevard, Concord, CA 94520",37.974272,-122.058025,94520,Concord,33,176,33,176,TRUE,7/6/25 21:35
+Corte Madera,"75 Tamal Vista Boulevard, Corte Madera, CA 94925",37.9347626,-122.5175269,94925,Corte Madera,0,0,0,0,TRUE,7/6/25 21:35
+Costa Mesa,"650 W. 19th Street, Costa Mesa, CA 92627",33.6441741,-117.9255301,92627,Costa Mesa,30,76,30,76,TRUE,7/6/25 21:35
+Crescent City,"1475 Parkway Drive, Crescent City, CA 95531",41.7722968,-124.185051,95531,Crescent City,0,0,0,0,TRUE,7/6/25 21:35
+Culver City,"11400 W Washington Blvd, Culver City, CA 90066",34.0022526,-118.4152258,90066,Los Angeles,23,80,23,80,TRUE,7/6/25 21:35
+Daly City,"1500 Sullivan Avenue, Daly City, CA 94015",37.6892897,-122.4728201,94015,Daly City,0,0,0,0,TRUE,7/6/25 21:35
+Davis,"505 Pole Line Road, Davis, CA 95616",38.5493362,-121.7272127,95616,Davis,44,137,44,137,TRUE,7/6/25 21:35
+Delano,"631 Jefferson Street, Delano, CA 93215",35.7645253,-119.243305,93215,Delano,7,36,7,36,TRUE,7/6/25 21:35
+El Cajon,"1450 Graves Avenue, El Cajon, CA 92021",32.817075,-116.959607,92020,El Cajon,32,87,32,87,TRUE,7/6/25 21:35
+El Centro,"233 N. Imperial Avenue, El Centro, CA 92243",32.7941972,-115.5700878,92243,El Centro,25,67,25,67,TRUE,7/6/25 21:35
+El Cerrito,"6400 Manila Avenue, El Cerrito, CA 94530",37.9160941,-122.3101953,94530,El Cerrito,34,104,34,104,TRUE,7/6/25 21:35
+El Monte,"4000 Arden Drive, El Monte, CA 91731",34.080506,-118.0447674,91731,El Monte,33,162,33,162,TRUE,7/6/25 21:35
+Eureka,"3300 Broadway St, Eureka, CA 95501",40.7796486,-124.1902331,95503,Eureka,0,0,0,0,TRUE,7/6/25 21:35
+Fairfield,"160 Serrano Drive, Fairfield, CA 94533",38.2467028,-122.0729446,94533,Fairfield,36,165,36,165,TRUE,7/6/25 21:35
+Fall River Mills,"43467 Hwy 299E, Fall River Mills, CA 96028",41.0197,-121.4281,96028,Fall River Mills,0,0,0,0,TRUE,7/6/25 21:35
+Folsom,"323 E Bidwell A, Folsom, CA 95630",38.6714289,-121.1765913,95630,Folsom,39,146,39,146,TRUE,7/6/25 21:35
+Fontana,"8026 Hemlock Ave, Fontana, CA 92336",34.1077645,-117.4769676,92336,Fontana,24,131,24,131,TRUE,7/6/25 21:35
+Fontana Commercial Drive Test Center,"10207 Poplar Ave, Fontana, CA 92335",34.0677593,-117.4618815,92335,Fontana,0,65,0,65,TRUE,7/6/25 21:35
+Fort Bragg,"410 S. Franklin Street, Fort Bragg, CA 95437",39.43784,-123.8044686,95437,Fort Bragg,0,0,0,0,TRUE,7/6/25 21:35
+Fremont,"4287 Central Avenue, Fremont, CA 94536",37.553337,-122.0071941,94536,Fremont,0,0,0,0,TRUE,7/6/25 21:35
+Fresno,"655 W. Olive Avenue, Fresno, CA 93728",36.7574376,-119.8193749,93728,Fresno,21,75,21,75,TRUE,7/6/25 21:35
+Fresno Commercial Drive Test Center,"735 E North Ave, Fresno, CA 93725",36.692501,-119.7626569,93725,Fresno,18,49,18,49,TRUE,7/6/25 21:35
+Fresno North,"6420 N Blackstone Avenue, Fresno, CA 93710",36.8305516,-119.790171,93710,Fresno,20,72,20,72,TRUE,7/6/25 21:35
+Fullerton,"909 W. Valencia Drive, Fullerton, CA 92832",33.8666973,-117.9389056,92832,Fullerton,37,133,37,133,TRUE,7/6/25 21:35
+Garberville,"1180 Evergreen Rd, Redway, CA 95560",40.1207,-123.8005,95560,Redway,0,0,0,0,TRUE,7/6/25 21:35
+Gardena Commercial Drive Test Center,"14825 S Avalon Blvd, Gardena, CA 90248",33.8971568,-118.2659639,90248,Gardena,0,47,0,47,TRUE,7/6/25 21:35
+Gilroy,"6984 Automall Parkway Suite A, Gilroy, CA 95020",37.0016,-121.5588,95020,Gilroy,0,0,0,0,TRUE,7/6/25 21:35
+Glendale,"1335 W. Glenoaks Boulevard, Glendale, CA 91201",34.1665512,-118.2836931,91201,Glendale,20,68,20,68,TRUE,7/6/25 21:35
+Goleta,"7127 Hollister Avenue Suite 24/26, Goleta, CA 93117",34.4289,-119.8766,93117,Goleta,20,52,20,52,TRUE,7/6/25 21:35
+Grass Valley,"890 Sutton Way, Grass Valley, CA 95945",39.2300753,-121.0347687,95945,Grass Valley,0,0,0,0,TRUE,7/6/25 21:35
+Hanford,"701 W. Hanford Armona Road (corner of W. Armona), Hanford, CA 93230",36.3277,-119.6459,93230,Hanford,35,103,35,103,TRUE,7/6/25 21:35
+Hawthorne,"3700 W. El Segundo Boulevard, Hawthorne, CA 90250",33.915485,-118.3381227,90250,Hawthorne,34,142,34,142,TRUE,7/6/25 21:35
+Hayward,"150 Jackson Street, Hayward, CA 94544",37.658726,-122.0861069,94544,Hayward,0,0,0,0,TRUE,7/6/25 21:35
+Hemet,"1200 S State St, Hemet, CA 92543",33.7366551,-116.9716073,92543,Hemet,35,59,35,59,TRUE,7/6/25 21:35
+Hollister,"80 N. Sally Street, Hollister, CA 95023",36.8580951,-121.3999161,95023,Hollister,0,0,0,0,TRUE,7/6/25 21:35
+Hollywood,"803 Cole Avenue, Hollywood, CA 90038",34.0855658,-118.3302512,90038,Los Angeles,16,63,16,63,TRUE,7/6/25 21:35
+Indio,"44480 Jackson St, Indio, CA 92201",33.7260855,-116.2162076,92201,Indio,14,48,14,48,TRUE,7/6/25 21:35
+Jackson,"201 Clinton Road, Jackson, CA 95642",38.341867,-120.76414,95642,Jackson,22,85,22,85,TRUE,7/6/25 21:35
+King City,"101 E San Antonio Dr, King City, CA 93930",36.22174,-121.127408,93930,King City,0,0,0,0,TRUE,7/6/25 21:35
+Lake Isabella,"5520 Lake Isabella Road G-1, Lake Isabella, CA 93240",35.6225,-117.6709,93555,Ridgecrest,0,0,0,0,TRUE,7/6/25 21:35
+Lakeport,"965 Parallel Drive, Lakeport, CA 95453",39.0362192,-122.9270646,95453,Lakeport,0,0,0,0,TRUE,7/6/25 21:35
+Lancaster,"721 W Ave L6, Lancaster, CA 93535",34.654619,-118.2577117,93536,Lancaster,19,80,19,80,TRUE,7/6/25 21:35
+Lincoln Park,"3529 N. Mission Road, Los Angeles, CA 90031",34.0680072,-118.2029627,90031,Los Angeles,31,89,31,89,TRUE,7/6/25 21:35
+Lodi,"1222 Pixley Parkway, Lodi, CA 95240",38.1187259,-121.2514912,95240,Lodi,36,151,36,151,TRUE,7/6/25 21:35
+Lompoc,"1601 N H St, Lompoc, CA 93436",34.6643675,-120.4575405,93436,Lompoc,17,51,17,51,TRUE,7/6/25 21:35
+Long Beach,"3700 East Willow Street, Long Beach, CA 90815",33.8036258,-118.1495192,90815,Long Beach,21,84,21,84,TRUE,7/6/25 21:35
+Los Angeles,"3615 S. Hope Street, Los Angeles, CA 90007",34.0179809,-118.2792025,90007,Los Angeles,33,119,33,119,TRUE,7/6/25 21:35
+Los Banos,"814 West L Street, Los Banos, CA 93635",37.0598664,-120.8628147,93635,Los Banos,23,71,23,71,TRUE,7/6/25 21:35
+Los Gatos,"600 N. Santa Cruz Avenue, Los Gatos, CA 95030",37.2338712,-121.9779791,95030,Los Gatos,0,0,0,0,TRUE,7/6/25 21:35
+Madera,"1206 Maple Street, Madera, CA 93637",36.9500102,-120.0736012,93637,Madera,28,102,28,102,TRUE,7/6/25 21:35
+Manteca,"955 Davis Street, Manteca, CA 95336",37.8008036,-121.2299475,95337,Manteca,28,92,28,92,TRUE,7/6/25 21:35
+Mariposa,"5264 Highway 49-North, Mariposa, CA 95338",37.4962,-119.9676,95338,Mariposa,0,0,0,0,TRUE,7/6/25 21:35
+Mendota,"655 Quince Street, Mendota, CA 93640",36.7541616,-120.3825149,93640,Mendota,0,0,0,0,TRUE,7/6/25 21:35
+Merced,"1313 W. 12th Street, Merced, CA 95340",37.3013646,-120.498471,95341,Merced,17,51,17,51,TRUE,7/6/25 21:35
+Modesto,"124 Burney Street, Modesto, CA 95354",37.6391813,-120.988828,95354,Modesto,26,75,26,75,TRUE,7/6/25 21:35
+Montebello,"424 N. Wilcox Avenue, Montebello, CA 90640",34.0194146,-118.1225452,90640,Montebello,21,84,21,84,TRUE,7/6/25 21:35
+Mt Shasta,"154 Morgan Way, Mt Shasta, CA 96067",41.3101068,-122.3167974,96067,Mount Shasta,0,0,0,0,TRUE,7/6/25 21:35
+Napa,"2550 Napa Valley Corporate Drive, Napa, CA 94558",38.2553113,-122.2741058,94558,Napa,21,64,21,64,TRUE,7/6/25 21:35
+Needles,"1040 E Broadway St, Needles, CA 92363",34.8219178,-114.5980495,92363,Needles,17,64,17,64,TRUE,7/6/25 21:35
+Newhall,"24427 Newhall Avenue, Newhall, CA 91321",34.3795136,-118.5331728,91321,Newhall,30,111,30,111,TRUE,7/6/25 21:35
+Norco,"3201 Horseless Carriage Drive, Norco, CA 92860",33.9282315,-117.5612436,92860,Norco,35,126,35,126,TRUE,7/6/25 21:35
+Novato,"936 7th Street A, Novato, CA 94947",38.107684,-122.5775259,94945,Novato,0,0,0,0,TRUE,7/6/25 21:35
+Oakland,"5300 Claremont Avenue, Oakland, CA 94618",37.8399089,-122.2594145,94618,Oakland,0,0,0,0,TRUE,7/6/25 21:35
+Oceanside,"4005 Plaza Drive, Oceanside, CA 92056",33.1820467,-117.2935316,92056,Oceanside,34,117,34,117,TRUE,7/6/25 21:35
+Oroville,"775 Mitchell Avenue, Oroville, CA 95965",39.5043404,-121.5654114,95965,Oroville,0,0,0,0,TRUE,7/6/25 21:35
+Oxnard,"4050 Saviers Road, Oxnard, CA 93033",34.1625197,-119.1775613,93033,Oxnard,25,70,25,70,TRUE,7/6/25 21:35
+Palm Desert,"74-740 Technology Drive, Palm Desert, CA 92211",33.7853,-116.3566,92211,Palm Desert,23,73,23,73,TRUE,7/6/25 21:35
+Palm Springs,"950 N. Farrell Drive, Palm Springs, CA 92262",33.835961,-116.51912,92262,Palm Springs,25,79,25,79,TRUE,7/6/25 21:35
+Pasadena,"49 S. Rosemead Boulevard, Pasadena, CA 91107",34.1581527,-118.0812212,91107,Pasadena,17,68,17,68,TRUE,7/6/25 21:35
+Paso Robles,"841 Park Street, Paso Robles, CA 93446",35.6232165,-120.6901458,93446,Paso Robles,22,46,22,46,TRUE,7/6/25 21:35
+Petaluma,"715 - J Southpoint Boulevard, Petaluma, CA 94954",38.2618937,-122.6470141,94954,Petaluma,0,0,0,0,TRUE,7/6/25 21:35
+Pittsburg,"1399 Buchanan Road, Pittsburg, CA 94565",37.9988406,-121.8717976,94565,Pittsburg,0,0,0,0,TRUE,7/6/25 21:35
+Placerville,"2919 Cold Springs Road, Placerville, CA 95667",38.7339757,-120.8247423,95667,Placerville,0,0,0,0,TRUE,7/6/25 21:35
+Pleasanton,"6300 W Las Positas Blvd, Pleasanton, CA 94588",37.6801625,-121.9057656,94588,Pleasanton,0,0,0,0,TRUE,7/6/25 21:35
+Pomona,"1600 S. Garey Avenue, Pomona, CA 91766",34.0421407,-117.7490612,91766,Pomona,37,142,37,142,TRUE,7/6/25 21:35
+Porterville,"329 E. Olive Avenue, Porterville, CA 93257",36.0652057,-119.0105966,93257,Porterville,19,49,19,49,TRUE,7/6/25 21:35
+Poway,"13461 Community Road, Poway, CA 92064",32.959845,-117.0400207,92064,Poway,30,90,30,90,TRUE,7/6/25 21:35
+Quincy,"1953 E. Main Street Suite 3, Quincy, CA 95971",39.9347,-120.9027,95971,Quincy,0,0,0,0,TRUE,7/6/25 21:35
+Rancho Cucamonga,"8629 Hellman Avenue, Rancho Cucamonga, CA 91730",34.0970954,-117.6015682,91730,Rancho Cucamonga,18,68,18,68,TRUE,7/6/25 21:35
+Rancho San Diego Industry Business Center,"1901 Jamacha Road, El Cajon, CA 92019",32.7577935,-116.9242379,92019,El Cajon,0,0,0,0,TRUE,7/6/25 21:35
+Red Bluff,"675 Monroe Street, Red Bluff, CA 96080",40.1750942,-122.2388972,96080,Red Bluff,0,0,0,0,TRUE,7/6/25 21:35
+Redding,"2135 Civic Center Drive, Redding, CA 96001",40.5752511,-122.3806372,96001,Redding,0,0,0,0,TRUE,7/6/25 21:35
+Redlands,"1659 W Lugonia Avenue, Redlands, CA 92374",34.0698816,-117.2125604,92374,Redlands,30,137,30,137,TRUE,7/6/25 21:35
+Redwood City,"300 Brewster Avenue, Redwood City, CA 94063",37.4926004,-122.2290212,94063,Redwood City,0,0,0,0,TRUE,7/6/25 21:35
+Reedley,"558 E. Dinuba Avenue, Reedley, CA 93654",36.5897862,-119.4438796,93654,Reedley,30,73,30,73,TRUE,7/6/25 21:35
+Ridgecrest,"540A Perdew Avenue, Ridgecrest, CA 93555",35.6489629,-117.6844348,93555,Ridgecrest,12,50,12,50,TRUE,7/6/25 21:35
+Riverside,"6280 Brockton Avenue, Riverside, CA 92506",33.9579912,-117.3966504,92506,Riverside,33,93,33,93,TRUE,7/6/25 21:35
+Riverside East,"6425 Sycamore Canyon Blvd., Riverside, CA 92507",33.9295012,-117.2966057,92507,Riverside,31,124,31,124,TRUE,7/6/25 21:35
+Rocklin,"5245 South Grove, Rocklin, CA 95677",38.7870239,-121.2322377,95677,Rocklin,0,0,0,0,TRUE,7/6/25 21:35
+Roseville,"7200 Galilee Road, Roseville, CA 95678",38.7762864,-121.3048028,95678,Roseville,0,0,0,0,TRUE,7/6/25 21:35
+Sacramento,"4700 Broadway, Sacramento, CA 95820",38.5466646,-121.4514468,95820,Sacramento,0,0,0,0,TRUE,7/6/25 21:35
+Sacramento South,"7775 La Mancha Way, Sacramento, CA 95823",38.4748413,-121.4270625,95823,Sacramento,0,0,0,0,TRUE,7/6/25 21:35
+Salinas,"260 E. Laurel Drive, Salinas, CA 93906",36.6986106,-121.6482819,93906,Salinas,0,0,0,0,TRUE,7/6/25 21:35
+San Andreas,"745 Mountain Ranch Rd, San Andreas, CA 95249",38.1907133,-120.6709838,95249,San Andreas,0,0,0,0,TRUE,7/6/25 21:35
+San Bernardino,"1310 N. Waterman Avenue, San Bernardino, CA 92404",34.1239515,-117.2789031,92404,San Bernardino,24,77,24,77,TRUE,7/6/25 21:35
+San Clemente,"2727 Via Cascadita, San Clemente, CA 92672",33.4427619,-117.6422827,92672,San Clemente,28,91,28,91,TRUE,7/6/25 21:35
+San Diego,"3960 Normal Street, San Diego, CA 92103",32.7505319,-117.1493036,92103,San Diego,35,112,35,112,TRUE,7/6/25 21:35
+San Diego Clairemont,"4375 Derrick Drive, San Diego, CA 92117",32.8234218,-117.183198,92117,San Diego,34,74,34,74,TRUE,7/6/25 21:35
+San Francisco,"1377 Fell Street, San Francisco, CA 94117",37.7733329,-122.440471,94117,San Francisco,0,0,0,0,TRUE,7/6/25 21:35
+San Jose,"111 W. Alma Avenue, San Jose, CA 95110",37.3150335,-121.8768198,95110,San Jose,0,0,0,0,TRUE,7/6/25 21:35
+San Luis Obispo,"3190 S. Higuera Street, San Luis Obispo, CA 93401",35.2574365,-120.6691667,93401,San Luis Obispo,17,54,17,54,TRUE,7/6/25 21:35
+San Marcos,"590 Rancheros Dr, San Marcos, CA 92069",33.1404943,-117.147493,92069,San Marcos,36,136,36,136,TRUE,7/6/25 21:35
+San Mateo,"425 N. Amphlett Boulevard, San Mateo, CA 94401",37.5786959,-122.3240832,94401,San Mateo,0,0,0,0,TRUE,7/6/25 21:35
+San Pedro,"1511 N. Gaffey Street, San Pedro, CA 90731",33.750113,-118.2936862,90731,San Pedro,29,123,29,123,TRUE,7/6/25 21:35
+San Ysidro,"6111 Business Center Court, San Diego, CA 92154",32.5688401,-117.003223,92154,San Diego,38,110,38,110,TRUE,7/6/25 21:35
+Santa Ana,"1330 E. First Street, Santa Ana, CA 92701",33.7455,-117.8677,92701,Santa Ana,36,140,36,140,TRUE,7/6/25 21:35
+Santa Barbara,"535 Castillo Street, Santa Barbara, CA 93101",34.413092,-119.7013336,93101,Santa Barbara,15,51,15,51,TRUE,7/6/25 21:35
+Santa Clara,"3665 Flora Vista Ave, Santa Clara, CA 95051",37.3502362,-121.9940407,95051,Santa Clara,0,0,0,0,TRUE,7/6/25 21:35
+Santa Monica,"2235 Colorado Avenue, Santa Monica, CA 90404",34.0281966,-118.4750918,90404,Santa Monica,15,51,15,51,TRUE,7/6/25 21:35
+Santa Paula,"250 W. Harvard Boulevard A, Santa Paula, CA 93060",34.3466047,-119.0710525,93060,Santa Paula,19,62,19,62,TRUE,7/6/25 21:35
+Santa Rosa,"1350 Bennett Valley Rd, Santa Rosa, CA 95404",38.4323083,-122.7013279,95404,Santa Rosa,0,0,0,0,TRUE,7/6/25 21:35
+Santa Teresa,"180 Martinvale Lane, San Jose, CA 95119",37.2297302,-121.778026,95119,San Jose,0,0,0,0,TRUE,7/6/25 21:35
+Seaside,"1180 Canyon Del Rey Blvd, Seaside, CA 93955",36.6020192,-121.8535591,93955,Seaside,0,0,0,0,TRUE,7/6/25 21:35
+Shafter,"548 Walker Street, Shafter, CA 93263",35.5034093,-119.2726223,93263,Shafter,23,76,23,76,TRUE,7/6/25 21:35
+Simi Valley,"3855 D - Alamo Street, Simi Valley, CA 93063",34.2869377,-118.7230518,93063,Simi Valley,22,59,22,59,TRUE,7/6/25 21:35
+Sonora,"885 Morning Star Drive, Sonora, CA 95370",37.9844523,-120.370079,95370,Sonora,37,210,37,210,TRUE,7/6/25 21:35
+South Lake Tahoe,"3344 B Lake Tahoe Boulevard, South Lake Tahoe, CA 96150",38.9422951,-119.977218,96150,South Lake Tahoe,24,140,24,140,TRUE,7/6/25 21:35
+Stockton,"55 South Lincoln Street, Stockton, CA 95203",37.9506234,-121.2978046,95203,Stockton,33,141,33,141,TRUE,7/6/25 21:35
+Susanville,"2615 Main Street, Susanville, CA 96130",40.4124129,-120.63774,96130,Susanville,0,0,0,0,TRUE,7/6/25 21:35
+Taft,"165 Center Street, Taft, CA 93268",35.139155,-119.4537028,93268,Taft,0,0,0,0,TRUE,7/6/25 21:35
+Temecula,"27851 Diaz Road, Temecula, CA 92590",33.5064849,-117.16081,92590,Temecula,27,92,27,92,TRUE,7/6/25 21:35
+Thousand Oaks,"1810 E. Avenida De Los Arboles, Thousand Oaks, CA 91362",34.2108064,-118.8441882,91362,Thousand Oaks,13,43,13,43,TRUE,7/6/25 21:35
+Torrance,"1785 W. 220th Street, Torrance, CA 90501",33.8284982,-118.3110832,90501,Torrance,32,166,32,166,TRUE,7/6/25 21:35
+Tracy,"2785 Auto Plaza Drive, Tracy, CA 95304",37.7623237,-121.46491,95304,Tracy,36,163,36,163,TRUE,7/6/25 21:35
+Truckee,"11357 Donner Pass Road Suite I, Truckee, CA 96162",39.328,-120.1833,96161,Truckee,0,0,0,0,TRUE,7/6/25 21:35
+Tulare,"274 E Cross Avenue, Tulare, CA 93274",36.2137523,-119.3462192,93274,Tulare,13,43,13,43,TRUE,7/6/25 21:35
+Tulelake,"399 Main Street, Tulelake, CA 96134",41.956179,-121.476851,96134,Tulelake,0,0,0,0,TRUE,7/6/25 21:35
+Turlock,"825 E. Monte Vista Avenue, Turlock, CA 95382",37.5225903,-120.8393802,95382,Turlock,26,73,26,73,TRUE,7/6/25 21:35
+Twentynine Palms,"3668 Adobe Road G-J, Twentynine Palms, CA 92277",34.1872,-116.0554,92277,Twentynine Palms,7,44,7,44,TRUE,7/6/25 21:35
+Ukiah,"542 S. Orchard Avenue, Ukiah, CA 95482",39.1472515,-123.1986456,95482,Ukiah,0,0,0,0,TRUE,7/6/25 21:35
+Vacaville,"621 Orange Drive, Vacaville, CA 95687",38.3708292,-121.9540155,95687,Vacaville,33,82,33,82,TRUE,7/6/25 21:35
+Vallejo,"200 Couch Street, Vallejo, CA 94590",38.1174069,-122.251644,94590,Vallejo,36,172,36,172,TRUE,7/6/25 21:35
+Van Nuys,"14920 Vanowen Street, Van Nuys, CA 91405",34.1934052,-118.458334,91405,Van Nuys,26,98,26,98,TRUE,7/6/25 21:35
+Ventura,"4260 Market Street, Ventura, CA 93003",34.2572009,-119.2359133,93003,Ventura,17,43,17,43,TRUE,7/6/25 21:35
+Victorville,"14855 Corta Drive, Victorville, CA 92395",34.519495,-117.3059783,92395,Victorville,30,96,30,96,TRUE,7/6/25 21:35
+Visalia,"1711 East Main Street, Visalia, CA 93292",36.3301299,-119.273983,93292,Visalia,23,79,23,79,TRUE,7/6/25 21:35
+Watsonville,"90 Alta Vista Avenue, Watsonville, CA 95076",36.9270173,-121.7682791,95076,Watsonville,0,0,0,0,TRUE,7/6/25 21:35
+Weaverville,"1511 Main Street, Weaverville, CA 96093",40.7188554,-122.9273881,96093,Weaverville,0,0,0,0,TRUE,7/6/25 21:35
+West Covina,"800 So. Glendora Avenue, West Covina, CA 91790",34.0611,-117.9315,91790,West Covina,32,157,32,157,TRUE,7/6/25 21:35
+West Hollywood,"936 N Formosa Ave, West Hollywood, CA 90046",34.0882928,-118.34576,90046,Los Angeles,3,18,3,18,TRUE,7/6/25 21:35
+West Sacramento Commercial Drive Test Center,"2528 Evergreen Avenue, West Sacramento, CA 95691",38.5771185,-121.5448565,95691,West Sacramento,0,0,0,0,TRUE,7/6/25 21:35
+Westminster,"13700 Hoover Street, Westminster, CA 92683",33.7641619,-117.997931,92683,Westminster,28,103,28,103,TRUE,7/6/25 21:35
+Whittier,"9338 S. Painter Avenue, Whittier, CA 90605",33.9525,-118.043,90605,Whittier,31,99,31,99,TRUE,7/6/25 21:35
+Willows,"815 N. Humboldt Avenue, Willows, CA 95988",39.5290236,-122.2119494,95988,Willows,0,0,0,0,TRUE,7/6/25 21:35
+Winnetka,"20725 Sherman Way, Winnetka, CA 91306",34.2012483,-118.5847026,91306,Winnetka,21,75,21,75,TRUE,7/6/25 21:35
+Woodland,"825 East St, Suite 306, CA 95776",38.6626,-121.7645,95776,Woodland,0,0,0,0,TRUE,7/6/25 21:35
+Yreka,"1848 Fort Jones Rd, Yreka, CA 96097",41.7017094,-122.6460698,96097,Yreka,0,0,0,0,TRUE,7/6/25 21:35
+Yuba City,"1570 Poole Boulevard, Yuba City, CA 95993",39.1446272,-121.6427742,95993,Yuba City,0,0,0,0,TRUE,7/6/25 21:35
