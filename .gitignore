@@ -145,12 +145,10 @@ pre-processing/dashboard/
 *.gif
 *.pdf
 
-# Exception: Allow output files in specific directories
+# Exception: Allow output files in specific directories (except HTML - too large)
 !output/*.csv
-!output/*.html
 !output/*.png
 !pre-processing/output/*.csv
-!pre-processing/output/*.html
 !pre-processing/output/*.png
 
 # Shapefiles and geographic data
