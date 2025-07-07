@@ -409,7 +409,7 @@ class DMVZipCodeMapper:
             avg_wait = sum(wait_times) / len(wait_times) if wait_times else 0
             
             subtitle = f'Average Wait: {avg_wait:.1f} min | {len(zip_data)} ZIP Codes | {len(offices)} DMV Offices'
-            fig.suptitle(subtitle, fontsize=12, y=0.02)
+            fig.suptitle(subtitle, fontsize=12, y=0.2)
             
             # Tight layout to prevent legend cutoff
             plt.tight_layout()
