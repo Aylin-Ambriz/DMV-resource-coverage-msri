@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-DMV ZIP Code Map Generator - FIXED VERSION
+DMV ZIP Code Map Generator - CSV VERSION
 Uses California zip code shapefile with proper coordinate handling
 Filters for California zip codes only and handles coordinate system correctly
+Now reads DMV office data from CSV export for improved performance and reliability
 """
 
 import json
 import numpy as np
+import pandas as pd
 import folium
 import geopandas as gpd
 from shapely.geometry import Point
@@ -20,7 +22,7 @@ from matplotlib.colors import LinearSegmentedColormap
 
 class DMVZipCodeMapper:
     def __init__(self):
-        self.data_file = "pre-processing/data/dmv_offices_complete.json"
+        self.data_file = "pre-processing/output/dmv_offices_details.csv"
         self.output_file = "pre-processing/output/dmv_zip_codes.html"
         self.zip_analysis_file = "pre-processing/data/dmv_zip_code_analysis.json"
         self.static_image_file = "pre-processing/output/dmv_zip_codes_map.png"
@@ -100,29 +102,56 @@ class DMVZipCodeMapper:
             return None
     
     def load_dmv_data(self) -> List[Dict]:
-        """Load DMV data"""
+        """Load DMV data from CSV"""
         if not os.path.exists(self.data_file):
             print(f"❌ Data file not found: {self.data_file}")
             return []
             
         try:
-            with open(self.data_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            print(f"✅ Loaded {len(data)} DMV offices")
+            df = pd.read_csv(self.data_file)
+            print(f"✅ Loaded {len(df)} DMV offices from CSV")
+            
+            # Convert DataFrame to list of dictionaries for compatibility
+            data = df.to_dict('records')
             return data
         except Exception as e:
             print(f"❌ Error loading data: {e}")
             return []
     
     def extract_geocoded_offices(self, data: List[Dict]) -> List[Dict]:
-        """Extract geocoded offices"""
+        """Extract geocoded offices from CSV data"""
         geocoded = []
-        for item in data:
-            table_data = item.get('table_data', {})
-            if (table_data.get('geocoded', False) and 
-                table_data.get('latitude') is not None and 
-                table_data.get('longitude') is not None):
-                geocoded.append(table_data)
+        for office in data:
+            # Check if office has valid coordinates (handle string boolean from CSV)
+            has_coords = office.get('has_coordinates', False)
+            if isinstance(has_coords, str):
+                has_coords = has_coords.upper() == 'TRUE'
+            
+            if (has_coords and 
+                office.get('latitude') is not None and 
+                office.get('longitude') is not None and
+                not pd.isna(office.get('latitude')) and
+                not pd.isna(office.get('longitude'))):
+                
+                # Convert CSV column names to expected format for compatibility
+                # Handle NaN values for wait times
+                walkin_wait = office.get('walkin_wait_minutes', 0)
+                if pd.isna(walkin_wait):
+                    walkin_wait = 0
+                    
+                appt_wait = office.get('appointment_wait_minutes', 0)
+                if pd.isna(appt_wait):
+                    appt_wait = 0
+                
+                office_data = {
+                    'name': office.get('office_name', 'Unknown'),
+                    'address': office.get('address', 'Unknown'),
+                    'latitude': float(office.get('latitude')),
+                    'longitude': float(office.get('longitude')),
+                    'current_non_appt_wait': str(int(walkin_wait)),
+                    'current_appt_wait': str(int(appt_wait))
+                }
+                geocoded.append(office_data)
         
         print(f"📍 Found {len(geocoded)} offices with coordinates")
         return geocoded
@@ -239,7 +268,7 @@ class DMVZipCodeMapper:
             'metadata': {
                 'generated_date': datetime.datetime.now().isoformat(),
                 'total_zips': len(zip_data),
-                'data_source': 'California ZIP Codes + DMV Wait Times Live Data',
+                'data_source': 'California ZIP Codes + DMV Office CSV Export',
                 'purpose': 'DMV wait time analysis by California ZIP code',
                 'categories_explanation': {
                     'No Wait (0 min)': 'No current wait time',
@@ -408,7 +437,7 @@ class DMVZipCodeMapper:
             wait_times = [zip_info['wait_time'] for zip_info in zip_data if zip_info['wait_time'] is not None]
             avg_wait = sum(wait_times) / len(wait_times) if wait_times else 0
             
-            subtitle = f'Average Wait: {avg_wait:.1f} min \n{len(zip_data)} ZIP Codes \n{len(offices)} DMV Offices'
+            subtitle = f'Average Wait: {avg_wait:.1f} min \n{len(offices)} DMV Offices'
             fig.suptitle(subtitle, fontsize=12, x=0.8, y=0.2, horizontalalignment='left')
             
             # Tight layout to prevent legend cutoff
@@ -629,7 +658,7 @@ class DMVZipCodeMapper:
     
     def generate_zip_code_map(self) -> bool:
         """Generate the zip code map"""
-        print("📮 DMV ZIP CODE MAP GENERATOR - FIXED VERSION")
+        print("📮 DMV ZIP CODE MAP GENERATOR - CSV VERSION")
         print("=" * 60)
         
         # Create output directory
@@ -697,6 +726,7 @@ class DMVZipCodeMapper:
             print(f"   ✅ Click any ZIP for detailed DMV assignment")
             print(f"   ✅ ZIP code analysis JSON")
             print(f"   ✅ Fast-loading static image map")
+            print(f"   ✅ Using clean CSV data source (faster than JSON)")
             
             print(f"\n🎯 USAGE:")
             print(f"   🚀 QUICK VIEW: {self.static_image_file} (loads instantly)")
@@ -718,7 +748,7 @@ def main():
     success = mapper.generate_zip_code_map()
     
     if success:
-        print(f"\n✅ SUCCESS! ZIP CODE map: Interactive HTML + Static image + Analysis JSON!")
+        print(f"\n✅ SUCCESS! ZIP CODE map from CSV: Interactive HTML + Static image + Analysis JSON!")
     else:
         print(f"\n❌ Failed to create zip code map")
 
