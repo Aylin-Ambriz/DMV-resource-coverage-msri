@@ -23,11 +23,11 @@ from matplotlib.colors import LinearSegmentedColormap
 
 class DMVCensusTractMapper:
     def __init__(self):
-        self.data_file = "data/dmv_offices_complete.json"
-        self.output_file = "dashboard/dmv_census_tracts.html"
-        self.tract_analysis_file = "data/dmv_census_tract_analysis.json"
-        self.static_image_file = "data/dmv_census_tracts_map.png"
-        self.census_tracts_file = "data/tl_2024_06_tract/tl_2024_06_tract.shp"
+        self.data_file = "pre-processing/data/dmv_offices_complete.json"
+        self.output_file = "pre-processing/dashboard/dmv_census_tracts.html"
+        self.tract_analysis_file = "pre-processing/data/dmv_census_tract_analysis.json"
+        self.static_image_file = "pre-processing/data/dmv_census_tracts_map.png"
+        self.census_tracts_file = "pre-processing/data/tl_2024_06_tract/tl_2024_06_tract.shp"
         
     def load_census_tracts(self):
         """Load California census tracts from local shapefile"""
