@@ -132,8 +132,7 @@ dmypy.json
 # ======================
 
 # Output directories - ignore all generated files
-output/
-pre-processing/output/
+
 pre-processing/dashboard/
 
 # Large data files
