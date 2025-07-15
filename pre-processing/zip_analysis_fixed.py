@@ -348,7 +348,7 @@ class DMVZipCodeMapper:
             # Color code DMV offices by wait time
             office_colors = []
             for office in offices:
-                wait_time = self.get_wait_time_numeric(office.get('current_non_appt_wait', ''))
+                wait_time = self.get_wait_time_numeric(office.get('current_appt_wait', ''))
                 if wait_time and wait_time <= 30:
                     office_colors.append('darkgreen')
                 elif wait_time and wait_time > 60:
@@ -454,7 +454,7 @@ class DMVZipCodeMapper:
                 
                 if nearest_office:
                     wait_time = self.get_wait_time_numeric(
-                        nearest_office.get('current_non_appt_wait', '')
+                        nearest_office.get('current_appt_wait', '')
                     )
                     
                     zip_info = {
@@ -544,7 +544,7 @@ class DMVZipCodeMapper:
         # Add DMV office markers
         print("   📌 Adding DMV office markers...")
         for office in offices:
-            wait_time = self.get_wait_time_numeric(office.get('current_non_appt_wait', ''))
+            wait_time = self.get_wait_time_numeric(office.get('current_appt_wait', ''))
             marker_color = 'green' if wait_time and wait_time <= 30 else 'red' if wait_time and wait_time > 60 else 'orange'
             
             popup_html = f"""
@@ -562,7 +562,7 @@ class DMVZipCodeMapper:
             folium.Marker(
                 location=[office['latitude'], office['longitude']],
                 popup=folium.Popup(popup_html, max_width=300),
-                tooltip=f"DMV: {office['name']} - {office.get('current_non_appt_wait', 'N/A')} min",
+                tooltip=f"DMV: {office['name']} - {office.get('current_appt_wait', 'N/A')} min",
                 icon=folium.Icon(color=marker_color, icon='building', prefix='fa')
             ).add_to(m)
         
