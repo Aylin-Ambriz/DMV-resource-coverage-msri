@@ -136,16 +136,7 @@ dmypy.json
 # Output directories - ignore all generated files
 pre-processing/dashboard/
 
-# Large data files
-*.json
-!requirements.txt
-*.csv
-*.html
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.pdf
+
 
 # Exception: Allow output files in specific directories
 !output/*.csv
