@@ -1,0 +1,1779 @@
+ZIP_CODE,ZIP_NAME,STATUS,INTERSECTING_TRIANGLES_COUNT,INTERSECTING_SIMPLICES
+00012,Mt Meadows Area,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+00016,Sequoia National Forest,NOT UNDERSERVED,0,None
+00017,Northeast Fresno County,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+00018,Los Padres Ntl Forest,NOT UNDERSERVED,0,None
+00019,Lassen Ntl Forest,NOT UNDERSERVED,0,None
+00020,Sierra National Forest,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+00022,Jackson St Forest,NOT UNDERSERVED,0,None
+00026,East Tulare County,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+00028,Plumas Ntl Forest,NOT UNDERSERVED,0,None
+00029,Tahoe National Forest,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+00031,Lassen National Forest,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+00032,Los Padres Ntl Forest,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+00033,Tahoe National Forest,NOT UNDERSERVED,0,None
+00034,Klamath National Forest,NOT UNDERSERVED,0,None
+00035,Modoc/Shasta/Klamath Forest,NOT UNDERSERVED,0,None
+00037,West Tehama County,NOT UNDERSERVED,0,None
+00038,East Tehama County,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+00039,Southeast Trinity County,NOT UNDERSERVED,0,None
+00040,Yosemite Ntl Park,NOT UNDERSERVED,0,None
+00044,South Alpine County,UNDERSERVED,1,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}]"
+00047,West Glenn County,NOT UNDERSERVED,0,None
+00048,Mendocino Ntl Forest,NOT UNDERSERVED,0,None
+00049,Six Rivers National Forest,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+00050,Six Rivers Ntl Forest,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+00051,Eldorado Ntl Forest,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+00052,Eldorado Ntl Forest,NOT UNDERSERVED,0,None
+00054,Six Rivers Ntl Forest,NOT UNDERSERVED,0,None
+00055,Trinity Ntl Forest,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+00057,Channel Islands National Park,NOT UNDERSERVED,0,None
+00058,Yosemite Ntl Park,NOT UNDERSERVED,0,None
+00061,Channel Is Air Guard Station,NOT UNDERSERVED,0,None
+00065,Plumas National Park,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+90001,Los Angeles,NOT UNDERSERVED,0,None
+90002,Los Angeles,NOT UNDERSERVED,0,None
+90003,Los Angeles,NOT UNDERSERVED,0,None
+90004,Los Angeles,NOT UNDERSERVED,0,None
+90005,Los Angeles,NOT UNDERSERVED,0,None
+90006,Los Angeles,NOT UNDERSERVED,0,None
+90007,Los Angeles,NOT UNDERSERVED,0,None
+90008,Los Angeles,NOT UNDERSERVED,0,None
+90011,Los Angeles,NOT UNDERSERVED,0,None
+90012,Los Angeles,NOT UNDERSERVED,0,None
+90013,Los Angeles,NOT UNDERSERVED,0,None
+90014,Los Angeles,NOT UNDERSERVED,0,None
+90015,Los Angeles,NOT UNDERSERVED,0,None
+90016,Los Angeles,NOT UNDERSERVED,0,None
+90017,Los Angeles,NOT UNDERSERVED,0,None
+90018,Los Angeles,NOT UNDERSERVED,0,None
+90019,Los Angeles,NOT UNDERSERVED,0,None
+90020,Los Angeles,NOT UNDERSERVED,0,None
+90021,Los Angeles,NOT UNDERSERVED,0,None
+90022,Los Angeles,NOT UNDERSERVED,0,None
+90023,Los Angeles,NOT UNDERSERVED,0,None
+90024,Los Angeles,NOT UNDERSERVED,0,None
+90025,Los Angeles,NOT UNDERSERVED,0,None
+90026,Los Angeles,NOT UNDERSERVED,0,None
+90027,Los Angeles,NOT UNDERSERVED,0,None
+90028,Los Angeles,NOT UNDERSERVED,0,None
+90029,Los Angeles,NOT UNDERSERVED,0,None
+90031,Los Angeles,NOT UNDERSERVED,0,None
+90032,Los Angeles,NOT UNDERSERVED,0,None
+90033,Los Angeles,NOT UNDERSERVED,0,None
+90034,Los Angeles,NOT UNDERSERVED,0,None
+90035,Los Angeles,NOT UNDERSERVED,0,None
+90036,Los Angeles,NOT UNDERSERVED,0,None
+90037,Los Angeles,NOT UNDERSERVED,0,None
+90038,Los Angeles,NOT UNDERSERVED,0,None
+90039,Los Angeles,NOT UNDERSERVED,0,None
+90040,Los Angeles,NOT UNDERSERVED,0,None
+90041,Los Angeles,NOT UNDERSERVED,0,None
+90042,Los Angeles,NOT UNDERSERVED,0,None
+90043,Los Angeles,NOT UNDERSERVED,0,None
+90044,Los Angeles,NOT UNDERSERVED,0,None
+90045,Los Angeles,NOT UNDERSERVED,0,None
+90046,Los Angeles,NOT UNDERSERVED,0,None
+90047,Los Angeles,NOT UNDERSERVED,0,None
+90048,Los Angeles,NOT UNDERSERVED,0,None
+90049,Los Angeles,NOT UNDERSERVED,0,None
+90056,Los Angeles,NOT UNDERSERVED,0,None
+90057,Los Angeles,NOT UNDERSERVED,0,None
+90058,Los Angeles,NOT UNDERSERVED,0,None
+90059,Los Angeles,NOT UNDERSERVED,0,None
+90061,Los Angeles,NOT UNDERSERVED,0,None
+90062,Los Angeles,NOT UNDERSERVED,0,None
+90063,Los Angeles,NOT UNDERSERVED,0,None
+90064,Los Angeles,NOT UNDERSERVED,0,None
+90065,Los Angeles,NOT UNDERSERVED,0,None
+90066,Los Angeles,NOT UNDERSERVED,0,None
+90067,Los Angeles,NOT UNDERSERVED,0,None
+90068,Los Angeles,NOT UNDERSERVED,0,None
+90069,West Hollywood,NOT UNDERSERVED,0,None
+90071,Los Angeles,NOT UNDERSERVED,0,None
+90073,Los Angeles,NOT UNDERSERVED,0,None
+90077,Los Angeles,NOT UNDERSERVED,0,None
+90089,Los Angeles,NOT UNDERSERVED,0,None
+90094,Playa Vista,NOT UNDERSERVED,0,None
+90095,Los Angeles,NOT UNDERSERVED,0,None
+90201,Bell Gardens,NOT UNDERSERVED,0,None
+90210,Beverly Hills,NOT UNDERSERVED,0,None
+90211,Beverly Hills,NOT UNDERSERVED,0,None
+90212,Beverly Hills,NOT UNDERSERVED,0,None
+90220,Compton,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90221,Compton,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90222,Compton,NOT UNDERSERVED,0,None
+90230,Culver City,NOT UNDERSERVED,0,None
+90232,Culver City,NOT UNDERSERVED,0,None
+90240,Downey,NOT UNDERSERVED,0,None
+90241,Downey,NOT UNDERSERVED,0,None
+90242,Downey,NOT UNDERSERVED,0,None
+90245,El Segundo,NOT UNDERSERVED,0,None
+90247,Gardena,NOT UNDERSERVED,0,None
+90248,Gardena,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90249,Gardena,NOT UNDERSERVED,0,None
+90250,Hawthorne,NOT UNDERSERVED,0,None
+90254,Hermosa Beach,NOT UNDERSERVED,0,None
+90255,Huntington Park,NOT UNDERSERVED,0,None
+90260,Lawndale,NOT UNDERSERVED,0,None
+90262,Lynwood,NOT UNDERSERVED,0,None
+90263,Malibu,NOT UNDERSERVED,0,None
+90265,Malibu,NOT UNDERSERVED,0,None
+90266,Manhattan Beach,NOT UNDERSERVED,0,None
+90270,Maywood,NOT UNDERSERVED,0,None
+90272,Pacific Palisades,NOT UNDERSERVED,0,None
+90274,Palos Verdes Peninsula,NOT UNDERSERVED,0,None
+90275,Rancho Palos Verdes,NOT UNDERSERVED,0,None
+90277,Redondo Beach,NOT UNDERSERVED,0,None
+90278,Redondo Beach,NOT UNDERSERVED,0,None
+90280,South Gate,NOT UNDERSERVED,0,None
+90290,Topanga,NOT UNDERSERVED,0,None
+90291,Venice,NOT UNDERSERVED,0,None
+90292,Marina del Rey,NOT UNDERSERVED,0,None
+90293,Playa del Rey,NOT UNDERSERVED,0,None
+90301,Inglewood,NOT UNDERSERVED,0,None
+90302,Inglewood,NOT UNDERSERVED,0,None
+90303,Inglewood,NOT UNDERSERVED,0,None
+90304,Inglewood,NOT UNDERSERVED,0,None
+90305,Inglewood,NOT UNDERSERVED,0,None
+90401,Santa Monica,NOT UNDERSERVED,0,None
+90402,Santa Monica,NOT UNDERSERVED,0,None
+90403,Santa Monica,NOT UNDERSERVED,0,None
+90404,Santa Monica,NOT UNDERSERVED,0,None
+90405,Santa Monica,NOT UNDERSERVED,0,None
+90501,Torrance,NOT UNDERSERVED,0,None
+90502,Torrance,NOT UNDERSERVED,0,None
+90503,Torrance,NOT UNDERSERVED,0,None
+90504,Torrance,NOT UNDERSERVED,0,None
+90505,Torrance,NOT UNDERSERVED,0,None
+90506,Torrance,NOT UNDERSERVED,0,None
+90601,Whittier,NOT UNDERSERVED,0,None
+90602,Whittier,NOT UNDERSERVED,0,None
+90603,Whittier,NOT UNDERSERVED,0,None
+90604,Whittier,NOT UNDERSERVED,0,None
+90605,Whittier,NOT UNDERSERVED,0,None
+90606,Whittier,NOT UNDERSERVED,0,None
+90620,Buena Park,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90621,Buena Park,NOT UNDERSERVED,0,None
+90623,La Palma,NOT UNDERSERVED,0,None
+90630,Cypress,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90631,La Habra,NOT UNDERSERVED,0,None
+90638,La Mirada,NOT UNDERSERVED,0,None
+90639,La Mirada,NOT UNDERSERVED,0,None
+90640,Montebello,NOT UNDERSERVED,0,None
+90650,Norwalk,NOT UNDERSERVED,0,None
+90660,Pico Rivera,NOT UNDERSERVED,0,None
+90670,Santa Fe Springs,NOT UNDERSERVED,0,None
+90680,Stanton,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90701,Artesia,NOT UNDERSERVED,0,None
+90703,Cerritos,NOT UNDERSERVED,0,None
+90704,Avalon,NOT UNDERSERVED,0,None
+90706,Bellflower,NOT UNDERSERVED,0,None
+90710,Harbor City,NOT UNDERSERVED,0,None
+90712,Lakewood,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90713,Lakewood,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90715,Lakewood,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90716,Hawaiian Gardens,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90717,Lomita,NOT UNDERSERVED,0,None
+90720,Los Alamitos,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90723,Paramount,NOT UNDERSERVED,0,None
+90731,San Pedro,NOT UNDERSERVED,0,None
+90732,San Pedro,NOT UNDERSERVED,0,None
+90740,Seal Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90742,Sunset Beach,NOT UNDERSERVED,0,None
+90743,Surfside,NOT UNDERSERVED,0,None
+90744,Wilmington,NOT UNDERSERVED,0,None
+90745,Carson,NOT UNDERSERVED,0,None
+90746,Carson,NOT UNDERSERVED,0,None
+90747,Carson,NOT UNDERSERVED,0,None
+90755,Signal Hill,NOT UNDERSERVED,0,None
+90802,Long Beach,NOT UNDERSERVED,0,None
+90803,Long Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90804,Long Beach,NOT UNDERSERVED,0,None
+90805,Long Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90806,Long Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90807,Long Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90808,Long Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90810,Long Beach,NOT UNDERSERVED,0,None
+90813,Long Beach,NOT UNDERSERVED,0,None
+90814,Long Beach,NOT UNDERSERVED,0,None
+90815,Long Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+90822,Long Beach,NOT UNDERSERVED,0,None
+90840,Long Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+91001,Altadena,NOT UNDERSERVED,0,None
+91006,Arcadia,NOT UNDERSERVED,0,None
+91007,Arcadia,NOT UNDERSERVED,0,None
+91008,Duarte,NOT UNDERSERVED,0,None
+91010,Duarte,NOT UNDERSERVED,0,None
+91011,La Canada Flintridge,NOT UNDERSERVED,0,None
+91016,Monrovia,NOT UNDERSERVED,0,None
+91020,Montrose,NOT UNDERSERVED,0,None
+91024,Sierra Madre,NOT UNDERSERVED,0,None
+91030,South Pasadena,NOT UNDERSERVED,0,None
+91040,Sunland,NOT UNDERSERVED,0,None
+91042,Tujunga,NOT UNDERSERVED,0,None
+91101,Pasadena,NOT UNDERSERVED,0,None
+91103,Pasadena,NOT UNDERSERVED,0,None
+91104,Pasadena,NOT UNDERSERVED,0,None
+91105,Pasadena,NOT UNDERSERVED,0,None
+91106,Pasadena,NOT UNDERSERVED,0,None
+91107,Pasadena,NOT UNDERSERVED,0,None
+91108,San Marino,NOT UNDERSERVED,0,None
+91123,Pasadena,NOT UNDERSERVED,0,None
+91201,Glendale,NOT UNDERSERVED,0,None
+91202,Glendale,NOT UNDERSERVED,0,None
+91203,Glendale,NOT UNDERSERVED,0,None
+91204,Glendale,NOT UNDERSERVED,0,None
+91205,Glendale,NOT UNDERSERVED,0,None
+91206,Glendale,NOT UNDERSERVED,0,None
+91207,Glendale,NOT UNDERSERVED,0,None
+91208,Glendale,NOT UNDERSERVED,0,None
+91210,Glendale,NOT UNDERSERVED,0,None
+91214,La Crescenta,NOT UNDERSERVED,0,None
+91301,Agoura Hills,NOT UNDERSERVED,0,None
+91302,Calabasas,NOT UNDERSERVED,0,None
+91303,Canoga Park,NOT UNDERSERVED,0,None
+91304,Canoga Park,NOT UNDERSERVED,0,None
+91306,Winnetka,NOT UNDERSERVED,0,None
+91307,West Hills,NOT UNDERSERVED,0,None
+91311,Chatsworth,NOT UNDERSERVED,0,None
+91316,Encino,NOT UNDERSERVED,0,None
+91320,Newbury Park,NOT UNDERSERVED,0,None
+91321,Newhall,NOT UNDERSERVED,0,None
+91324,Northridge,NOT UNDERSERVED,0,None
+91325,Northridge,NOT UNDERSERVED,0,None
+91326,Porter Ranch,NOT UNDERSERVED,0,None
+91330,Northridge,NOT UNDERSERVED,0,None
+91331,Pacoima,NOT UNDERSERVED,0,None
+91335,Reseda,NOT UNDERSERVED,0,None
+91340,San Fernando,NOT UNDERSERVED,0,None
+91342,Sylmar,NOT UNDERSERVED,0,None
+91343,North Hills,NOT UNDERSERVED,0,None
+91344,Granada Hills,NOT UNDERSERVED,0,None
+91345,Mission Hills,NOT UNDERSERVED,0,None
+91350,Santa Clarita,NOT UNDERSERVED,0,None
+91351,Canyon Country,NOT UNDERSERVED,0,None
+91352,Sun Valley,NOT UNDERSERVED,0,None
+91354,Valencia,NOT UNDERSERVED,0,None
+91355,Valencia,NOT UNDERSERVED,0,None
+91356,Tarzana,NOT UNDERSERVED,0,None
+91360,Thousand Oaks,NOT UNDERSERVED,0,None
+91361,Westlake Village,NOT UNDERSERVED,0,None
+91362,Thousand Oaks,NOT UNDERSERVED,0,None
+91364,Woodland Hills,NOT UNDERSERVED,0,None
+91367,Woodland Hills,NOT UNDERSERVED,0,None
+91371,Woodland Hills,NOT UNDERSERVED,0,None
+91377,Oak Park,NOT UNDERSERVED,0,None
+91381,Stevenson Ranch,NOT UNDERSERVED,0,None
+91384,Castaic,NOT UNDERSERVED,0,None
+91387,Canyon Country,NOT UNDERSERVED,0,None
+91390,Santa Clarita,NOT UNDERSERVED,0,None
+91401,Van Nuys,NOT UNDERSERVED,0,None
+91402,Panorama City,NOT UNDERSERVED,0,None
+91403,Sherman Oaks,NOT UNDERSERVED,0,None
+91405,Van Nuys,NOT UNDERSERVED,0,None
+91406,Van Nuys,NOT UNDERSERVED,0,None
+91411,Van Nuys,NOT UNDERSERVED,0,None
+91423,Sherman Oaks,NOT UNDERSERVED,0,None
+91436,Encino,NOT UNDERSERVED,0,None
+91501,Burbank,NOT UNDERSERVED,0,None
+91502,Burbank,NOT UNDERSERVED,0,None
+91504,Burbank,NOT UNDERSERVED,0,None
+91505,Burbank,NOT UNDERSERVED,0,None
+91506,Burbank,NOT UNDERSERVED,0,None
+91521,Burbank,NOT UNDERSERVED,0,None
+91522,Burbank,NOT UNDERSERVED,0,None
+91523,Burbank,NOT UNDERSERVED,0,None
+91601,North Hollywood,NOT UNDERSERVED,0,None
+91602,North Hollywood,NOT UNDERSERVED,0,None
+91604,Studio City,NOT UNDERSERVED,0,None
+91605,North Hollywood,NOT UNDERSERVED,0,None
+91606,North Hollywood,NOT UNDERSERVED,0,None
+91607,Valley Village,NOT UNDERSERVED,0,None
+91608,Universal City,NOT UNDERSERVED,0,None
+91701,Rancho Cucamonga,NOT UNDERSERVED,0,None
+91702,Azusa,NOT UNDERSERVED,0,None
+91706,Baldwin Park,NOT UNDERSERVED,0,None
+91708,Chino,NOT UNDERSERVED,0,None
+91709,Chino Hills,NOT UNDERSERVED,0,None
+91710,Chino,NOT UNDERSERVED,0,None
+91711,Claremont,NOT UNDERSERVED,0,None
+91722,Covina,NOT UNDERSERVED,0,None
+91723,Covina,NOT UNDERSERVED,0,None
+91724,Covina,NOT UNDERSERVED,0,None
+91730,Rancho Cucamonga,NOT UNDERSERVED,0,None
+91731,El Monte,NOT UNDERSERVED,0,None
+91732,El Monte,NOT UNDERSERVED,0,None
+91733,South El Monte,NOT UNDERSERVED,0,None
+91737,Rancho Cucamonga,NOT UNDERSERVED,0,None
+91739,Rancho Cucamonga,NOT UNDERSERVED,0,None
+91740,Glendora,NOT UNDERSERVED,0,None
+91741,Glendora,NOT UNDERSERVED,0,None
+91744,La Puente,NOT UNDERSERVED,0,None
+91745,Hacienda Heights,NOT UNDERSERVED,0,None
+91746,La Puente,NOT UNDERSERVED,0,None
+91748,Rowland Heights,NOT UNDERSERVED,0,None
+91750,La Verne,NOT UNDERSERVED,0,None
+91752,Mira Loma,NOT UNDERSERVED,0,None
+91754,Monterey Park,NOT UNDERSERVED,0,None
+91755,Monterey Park,NOT UNDERSERVED,0,None
+91759,Mt Baldy,NOT UNDERSERVED,0,None
+91761,Ontario,NOT UNDERSERVED,0,None
+91762,Ontario,NOT UNDERSERVED,0,None
+91763,Montclair,NOT UNDERSERVED,0,None
+91764,Ontario,NOT UNDERSERVED,0,None
+91765,Diamond Bar,NOT UNDERSERVED,0,None
+91766,Pomona,NOT UNDERSERVED,0,None
+91767,Pomona,NOT UNDERSERVED,0,None
+91768,Pomona,NOT UNDERSERVED,0,None
+91770,Rosemead,NOT UNDERSERVED,0,None
+91773,San Dimas,NOT UNDERSERVED,0,None
+91775,San Gabriel,NOT UNDERSERVED,0,None
+91776,San Gabriel,NOT UNDERSERVED,0,None
+91780,Temple City,NOT UNDERSERVED,0,None
+91784,Upland,NOT UNDERSERVED,0,None
+91786,Upland,NOT UNDERSERVED,0,None
+91789,Walnut,NOT UNDERSERVED,0,None
+91790,West Covina,NOT UNDERSERVED,0,None
+91791,West Covina,NOT UNDERSERVED,0,None
+91792,West Covina,NOT UNDERSERVED,0,None
+91801,Alhambra,NOT UNDERSERVED,0,None
+91803,Alhambra,NOT UNDERSERVED,0,None
+91901,Alpine,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+91902,Bonita,NOT UNDERSERVED,0,None
+91905,Boulevard,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+91906,Campo,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+91910,Chula Vista,NOT UNDERSERVED,0,None
+91911,Chula Vista,NOT UNDERSERVED,0,None
+91913,Chula Vista,NOT UNDERSERVED,0,None
+91914,Chula Vista,NOT UNDERSERVED,0,None
+91915,Chula Vista,NOT UNDERSERVED,0,None
+91916,Descanso,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+91917,Dulzura,NOT UNDERSERVED,0,None
+91931,Guatay,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+91932,Imperial Beach,NOT UNDERSERVED,0,None
+91934,Jacumba,NOT UNDERSERVED,0,None
+91935,Jamul,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+91941,La Mesa,NOT UNDERSERVED,0,None
+91942,La Mesa,NOT UNDERSERVED,0,None
+91945,Lemon Grove,NOT UNDERSERVED,0,None
+91950,National City,NOT UNDERSERVED,0,None
+91962,Pine Valley,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+91963,Potrero,NOT UNDERSERVED,0,None
+91977,Spring Valley,NOT UNDERSERVED,0,None
+91978,Spring Valley,NOT UNDERSERVED,0,None
+91980,Tecate,NOT UNDERSERVED,0,None
+92003,Bonsall,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92004,Borrego Springs,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92007,Cardiff By The Sea,NOT UNDERSERVED,0,None
+92008,Carlsbad,NOT UNDERSERVED,0,None
+92009,Carlsbad,NOT UNDERSERVED,0,None
+92010,Carlsbad,NOT UNDERSERVED,0,None
+92011,Carlsbad,NOT UNDERSERVED,0,None
+92014,Del Mar,NOT UNDERSERVED,0,None
+92019,El Cajon,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92020,El Cajon,NOT UNDERSERVED,0,None
+92021,El Cajon,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92024,Encinitas,NOT UNDERSERVED,0,None
+92025,Escondido,NOT UNDERSERVED,0,None
+92026,Escondido,NOT UNDERSERVED,0,None
+92027,Escondido,NOT UNDERSERVED,0,None
+92028,Fallbrook,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92029,Escondido,NOT UNDERSERVED,0,None
+92036,Julian,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92037,La Jolla,NOT UNDERSERVED,0,None
+92040,Lakeside,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92054,Oceanside,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92055,Camp Pendleton,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92056,Oceanside,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92057,Oceanside,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92058,Oceanside,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92059,Pala,NOT UNDERSERVED,0,None
+92060,Palomar Mountain,NOT UNDERSERVED,0,None
+92061,Pauma Valley,NOT UNDERSERVED,0,None
+92064,Poway,NOT UNDERSERVED,0,None
+92065,Ramona,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92066,Ranchita,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92067,Rancho Santa Fe,NOT UNDERSERVED,0,None
+92069,San Marcos,NOT UNDERSERVED,0,None
+92070,Santa Ysabel,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92071,Santee,NOT UNDERSERVED,0,None
+92075,Solana Beach,NOT UNDERSERVED,0,None
+92078,San Marcos,NOT UNDERSERVED,0,None
+92081,Vista,NOT UNDERSERVED,0,None
+92082,Valley Center,NOT UNDERSERVED,0,None
+92083,Vista,NOT UNDERSERVED,0,None
+92084,Vista,NOT UNDERSERVED,0,None
+92086,Warner Springs,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92091,Rancho Santa Fe,NOT UNDERSERVED,0,None
+92093,La Jolla,NOT UNDERSERVED,0,None
+92096,San Marcos,NOT UNDERSERVED,0,None
+92101,San Diego,NOT UNDERSERVED,0,None
+92102,San Diego,NOT UNDERSERVED,0,None
+92103,San Diego,NOT UNDERSERVED,0,None
+92104,San Diego,NOT UNDERSERVED,0,None
+92105,San Diego,NOT UNDERSERVED,0,None
+92106,San Diego,NOT UNDERSERVED,0,None
+92107,San Diego,NOT UNDERSERVED,0,None
+92108,San Diego,NOT UNDERSERVED,0,None
+92109,San Diego,NOT UNDERSERVED,0,None
+92110,San Diego,NOT UNDERSERVED,0,None
+92111,San Diego,NOT UNDERSERVED,0,None
+92113,San Diego,NOT UNDERSERVED,0,None
+92114,San Diego,NOT UNDERSERVED,0,None
+92115,San Diego,NOT UNDERSERVED,0,None
+92116,San Diego,NOT UNDERSERVED,0,None
+92117,San Diego,NOT UNDERSERVED,0,None
+92118,Coronado,NOT UNDERSERVED,0,None
+92119,San Diego,NOT UNDERSERVED,0,None
+92120,San Diego,NOT UNDERSERVED,0,None
+92121,San Diego,NOT UNDERSERVED,0,None
+92122,San Diego,NOT UNDERSERVED,0,None
+92123,San Diego,NOT UNDERSERVED,0,None
+92124,San Diego,NOT UNDERSERVED,0,None
+92126,San Diego,NOT UNDERSERVED,0,None
+92127,San Diego,NOT UNDERSERVED,0,None
+92128,San Diego,NOT UNDERSERVED,0,None
+92129,San Diego,NOT UNDERSERVED,0,None
+92130,San Diego,NOT UNDERSERVED,0,None
+92131,San Diego,NOT UNDERSERVED,0,None
+92134,San Diego,NOT UNDERSERVED,0,None
+92135,San Diego,NOT UNDERSERVED,0,None
+92136,San Diego,NOT UNDERSERVED,0,None
+92139,San Diego,NOT UNDERSERVED,0,None
+92140,San Diego,NOT UNDERSERVED,0,None
+92145,San Diego,NOT UNDERSERVED,0,None
+92147,San Diego,NOT UNDERSERVED,0,None
+92152,San Diego,NOT UNDERSERVED,0,None
+92154,San Diego,NOT UNDERSERVED,0,None
+92155,San Diego,NOT UNDERSERVED,0,None
+92173,San Ysidro,NOT UNDERSERVED,0,None
+92182,San Diego,NOT UNDERSERVED,0,None
+92201,Indio,NOT UNDERSERVED,0,None
+92203,Indio,NOT UNDERSERVED,0,None
+92210,Indian Wells,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92211,Palm Desert,NOT UNDERSERVED,0,None
+92220,Banning,NOT UNDERSERVED,0,None
+92223,Beaumont,NOT UNDERSERVED,0,None
+92225,Blythe,NOT UNDERSERVED,0,None
+92227,Brawley,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92230,Cabazon,NOT UNDERSERVED,0,None
+92231,Calexico,NOT UNDERSERVED,0,None
+92233,Calipatria,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92234,Cathedral City,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92236,Coachella,NOT UNDERSERVED,0,None
+92239,Desert Center,NOT UNDERSERVED,0,None
+92240,Desert Hot Springs,NOT UNDERSERVED,0,None
+92241,Desert Hot Springs,NOT UNDERSERVED,0,None
+92242,Earp,NOT UNDERSERVED,0,None
+92243,El Centro,NOT UNDERSERVED,0,None
+92249,Heber,NOT UNDERSERVED,0,None
+92250,Holtville,NOT UNDERSERVED,0,None
+92251,Imperial,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92252,Joshua Tree,NOT UNDERSERVED,0,None
+92253,La Quinta,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92254,Mecca,NOT UNDERSERVED,0,None
+92256,Morongo Valley,NOT UNDERSERVED,0,None
+92257,Niland,NOT UNDERSERVED,0,None
+92258,North Palm Springs,NOT UNDERSERVED,0,None
+92259,Ocotillo,NOT UNDERSERVED,0,None
+92260,Palm Desert,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92262,Palm Springs,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92264,Palm Springs,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92266,Palo Verde,NOT UNDERSERVED,0,None
+92267,Parker Dam,NOT UNDERSERVED,0,None
+92268,Pioneertown,NOT UNDERSERVED,0,None
+92270,Rancho Mirage,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92273,Seeley,NOT UNDERSERVED,0,None
+92274,Thermal,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92275,Salton City,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92276,Thousand Palms,NOT UNDERSERVED,0,None
+92277,Twentynine Palms,NOT UNDERSERVED,0,None
+92278,Twentynine Palms,NOT UNDERSERVED,0,None
+92280,Vidal,NOT UNDERSERVED,0,None
+92281,Westmorland,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92282,Whitewater,NOT UNDERSERVED,0,None
+92283,Winterhaven,NOT UNDERSERVED,0,None
+92284,Yucca Valley,NOT UNDERSERVED,0,None
+92285,Landers,NOT UNDERSERVED,0,None
+92301,Adelanto,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+92304,Amboy,NOT UNDERSERVED,0,None
+92305,Angelus Oaks,NOT UNDERSERVED,0,None
+92307,Apple Valley,NOT UNDERSERVED,0,None
+92308,Apple Valley,NOT UNDERSERVED,0,None
+92309,Baker,NOT UNDERSERVED,0,None
+92310,Fort Irwin,NOT UNDERSERVED,0,None
+92311,Barstow,NOT UNDERSERVED,0,None
+92313,Grand Terrace,NOT UNDERSERVED,0,None
+92314,Big Bear City,NOT UNDERSERVED,0,None
+92315,Big Bear Lake,NOT UNDERSERVED,0,None
+92316,Bloomington,NOT UNDERSERVED,0,None
+92317,Blue Jay,NOT UNDERSERVED,0,None
+92318,Bryn Mawr,NOT UNDERSERVED,0,None
+92320,Calimesa,NOT UNDERSERVED,0,None
+92321,Cedar Glen,NOT UNDERSERVED,0,None
+92322,Cedarpines Park,NOT UNDERSERVED,0,None
+92324,Colton,NOT UNDERSERVED,0,None
+92325,Crestline,NOT UNDERSERVED,0,None
+92327,Daggett,NOT UNDERSERVED,0,None
+92328,Death Valley,NOT UNDERSERVED,0,None
+92332,Essex,NOT UNDERSERVED,0,None
+92333,Fawnskin,NOT UNDERSERVED,0,None
+92335,Fontana,NOT UNDERSERVED,0,None
+92336,Fontana,NOT UNDERSERVED,0,None
+92337,Fontana,NOT UNDERSERVED,0,None
+92338,Ludlow,NOT UNDERSERVED,0,None
+92339,Forest Falls,NOT UNDERSERVED,0,None
+92341,Green Valley Lake,NOT UNDERSERVED,0,None
+92342,Helendale,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+92344,Hesperia,NOT UNDERSERVED,0,None
+92345,Hesperia,NOT UNDERSERVED,0,None
+92346,Highland,NOT UNDERSERVED,0,None
+92347,Hinkley,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+92350,Loma Linda,NOT UNDERSERVED,0,None
+92352,Lake Arrowhead,NOT UNDERSERVED,0,None
+92354,Loma Linda,NOT UNDERSERVED,0,None
+92356,Lucerne Valley,NOT UNDERSERVED,0,None
+92358,Lytle Creek,NOT UNDERSERVED,0,None
+92359,Mentone,NOT UNDERSERVED,0,None
+92363,Needles,NOT UNDERSERVED,0,None
+92364,Nipton,NOT UNDERSERVED,0,None
+92365,Newberry Springs,NOT UNDERSERVED,0,None
+92368,Oro Grande,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+92371,Phelan,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+92372,Pinon Hills,NOT UNDERSERVED,0,None
+92373,Redlands,NOT UNDERSERVED,0,None
+92374,Redlands,NOT UNDERSERVED,0,None
+92376,Rialto,NOT UNDERSERVED,0,None
+92377,Rialto,NOT UNDERSERVED,0,None
+92378,Rimforest,NOT UNDERSERVED,0,None
+92382,Running Springs,NOT UNDERSERVED,0,None
+92384,Shoshone,NOT UNDERSERVED,0,None
+92385,Skyforest,NOT UNDERSERVED,0,None
+92386,Sugarloaf,NOT UNDERSERVED,0,None
+92389,Tecopa,NOT UNDERSERVED,0,None
+92391,Twin Peaks,NOT UNDERSERVED,0,None
+92392,Victorville,NOT UNDERSERVED,0,None
+92394,Victorville,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+92395,Victorville,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+92397,Wrightwood,NOT UNDERSERVED,0,None
+92398,Yermo,NOT UNDERSERVED,0,None
+92399,Yucaipa,NOT UNDERSERVED,0,None
+92401,San Bernardino,NOT UNDERSERVED,0,None
+92404,San Bernardino,NOT UNDERSERVED,0,None
+92405,San Bernardino,NOT UNDERSERVED,0,None
+92407,San Bernardino,NOT UNDERSERVED,0,None
+92408,San Bernardino,NOT UNDERSERVED,0,None
+92410,San Bernardino,NOT UNDERSERVED,0,None
+92411,San Bernardino,NOT UNDERSERVED,0,None
+92415,San Bernardino,NOT UNDERSERVED,0,None
+92501,Riverside,NOT UNDERSERVED,0,None
+92503,Riverside,NOT UNDERSERVED,0,None
+92504,Riverside,NOT UNDERSERVED,0,None
+92505,Riverside,NOT UNDERSERVED,0,None
+92506,Riverside,NOT UNDERSERVED,0,None
+92507,Riverside,NOT UNDERSERVED,0,None
+92508,Riverside,NOT UNDERSERVED,0,None
+92509,Jurupa Valley,NOT UNDERSERVED,0,None
+92518,March Air Reserve Base,NOT UNDERSERVED,0,None
+92521,Riverside,NOT UNDERSERVED,0,None
+92530,Lake Elsinore,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92532,Lake Elsinore,NOT UNDERSERVED,0,None
+92536,Aguanga,NOT UNDERSERVED,0,None
+92539,Anza,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92543,Hemet,NOT UNDERSERVED,0,None
+92544,Hemet,NOT UNDERSERVED,0,None
+92545,Hemet,NOT UNDERSERVED,0,None
+92548,Homeland,NOT UNDERSERVED,0,None
+92549,Idyllwild,NOT UNDERSERVED,0,None
+92551,Moreno Valley,NOT UNDERSERVED,0,None
+92553,Moreno Valley,NOT UNDERSERVED,0,None
+92555,Moreno Valley,NOT UNDERSERVED,0,None
+92557,Moreno Valley,NOT UNDERSERVED,0,None
+92561,Mountain Center,UNDERSERVED,1,"[{'simplex_id': 4, 'office_names': ['Rancho San Diego Industry Business Center', 'Palm Springs', 'Brawley']}]"
+92562,Murrieta,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92563,Murrieta,NOT UNDERSERVED,0,None
+92567,Nuevo,NOT UNDERSERVED,0,None
+92570,Perris,NOT UNDERSERVED,0,None
+92571,Perris,NOT UNDERSERVED,0,None
+92582,San Jacinto,NOT UNDERSERVED,0,None
+92583,San Jacinto,NOT UNDERSERVED,0,None
+92584,Menifee,NOT UNDERSERVED,0,None
+92585,Menifee,NOT UNDERSERVED,0,None
+92586,Menifee,NOT UNDERSERVED,0,None
+92587,Menifee,NOT UNDERSERVED,0,None
+92590,Temecula,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92591,Temecula,NOT UNDERSERVED,0,None
+92592,Temecula,NOT UNDERSERVED,0,None
+92595,Wildomar,NOT UNDERSERVED,0,None
+92596,Winchester,NOT UNDERSERVED,0,None
+92602,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92603,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92604,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92606,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92610,Foothill Ranch,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92612,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92614,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92617,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92618,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92620,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92624,Capistrano Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92625,Corona del Mar,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92626,Costa Mesa,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92627,Costa Mesa,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92629,Dana Point,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92630,Lake Forest,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92637,Laguna Woods,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92646,Huntington Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92647,Huntington Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92648,Huntington Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92649,Huntington Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92651,Laguna Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92653,Laguna Hills,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92655,Midway City,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92656,Aliso Viejo,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92657,Newport Coast,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92660,Newport Beach,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92661,Newport Beach,NOT UNDERSERVED,0,None
+92662,Newport Beach,NOT UNDERSERVED,0,None
+92663,Newport Beach,NOT UNDERSERVED,0,None
+92672,San Clemente,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92673,San Clemente,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92675,San Juan Capistrano,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92676,Silverado,NOT UNDERSERVED,0,None
+92677,Laguna Niguel,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92679,Trabuco Canyon,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92683,Westminster,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92688,Rancho Santa Margarita,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92691,Mission Viejo,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92692,Mission Viejo,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92694,Ladera Ranch,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92697,Irvine,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92701,Santa Ana,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92703,Santa Ana,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92704,Santa Ana,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92705,Santa Ana,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92706,Santa Ana,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92707,Santa Ana,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92708,Fountain Valley,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92780,Tustin,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92782,Tustin,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92801,Anaheim,NOT UNDERSERVED,0,None
+92802,Anaheim,NOT UNDERSERVED,0,None
+92804,Anaheim,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92805,Anaheim,NOT UNDERSERVED,0,None
+92806,Anaheim,NOT UNDERSERVED,0,None
+92807,Anaheim,NOT UNDERSERVED,0,None
+92808,Anaheim,NOT UNDERSERVED,0,None
+92821,Brea,NOT UNDERSERVED,0,None
+92823,Brea,NOT UNDERSERVED,0,None
+92831,Fullerton,NOT UNDERSERVED,0,None
+92832,Fullerton,NOT UNDERSERVED,0,None
+92833,Fullerton,NOT UNDERSERVED,0,None
+92835,Fullerton,NOT UNDERSERVED,0,None
+92840,Garden Grove,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92841,Garden Grove,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92843,Garden Grove,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92844,Garden Grove,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92845,Garden Grove,UNDERSERVED,1,"[{'simplex_id': 9, 'office_names': ['Temecula', 'Oceanside', 'Gardena Commercial Drive Test Center']}]"
+92860,Norco,NOT UNDERSERVED,0,None
+92861,Villa Park,NOT UNDERSERVED,0,None
+92865,Orange,NOT UNDERSERVED,0,None
+92866,Orange,NOT UNDERSERVED,0,None
+92867,Orange,NOT UNDERSERVED,0,None
+92868,Orange,NOT UNDERSERVED,0,None
+92869,Orange,NOT UNDERSERVED,0,None
+92870,Placentia,NOT UNDERSERVED,0,None
+92878,Corona,NOT UNDERSERVED,0,None
+92879,Corona,NOT UNDERSERVED,0,None
+92880,Corona,NOT UNDERSERVED,0,None
+92881,Corona,NOT UNDERSERVED,0,None
+92882,Corona,NOT UNDERSERVED,0,None
+92883,Corona,NOT UNDERSERVED,0,None
+92886,Yorba Linda,NOT UNDERSERVED,0,None
+92887,Yorba Linda,NOT UNDERSERVED,0,None
+93001,Ventura,NOT UNDERSERVED,0,None
+93003,Ventura,NOT UNDERSERVED,0,None
+93004,Ventura,NOT UNDERSERVED,0,None
+93010,Camarillo,NOT UNDERSERVED,0,None
+93012,Camarillo,NOT UNDERSERVED,0,None
+93013,Carpinteria,NOT UNDERSERVED,0,None
+93015,Fillmore,NOT UNDERSERVED,0,None
+93021,Moorpark,NOT UNDERSERVED,0,None
+93022,Oak View,NOT UNDERSERVED,0,None
+93023,Ojai,NOT UNDERSERVED,0,None
+93030,Oxnard,NOT UNDERSERVED,0,None
+93033,Oxnard,NOT UNDERSERVED,0,None
+93035,Oxnard,NOT UNDERSERVED,0,None
+93036,Oxnard,NOT UNDERSERVED,0,None
+93040,Piru,NOT UNDERSERVED,0,None
+93041,Port Hueneme,NOT UNDERSERVED,0,None
+93042,Point Mugu Nawc,NOT UNDERSERVED,0,None
+93043,Port Hueneme CBC Base,NOT UNDERSERVED,0,None
+93060,Santa Paula,NOT UNDERSERVED,0,None
+93063,Simi Valley,NOT UNDERSERVED,0,None
+93065,Simi Valley,NOT UNDERSERVED,0,None
+93066,Somis,NOT UNDERSERVED,0,None
+93067,Summerland,NOT UNDERSERVED,0,None
+93101,Santa Barbara,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93103,Santa Barbara,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93105,Santa Barbara,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93106,Santa Barbara,NOT UNDERSERVED,0,None
+93108,Santa Barbara,NOT UNDERSERVED,0,None
+93109,Santa Barbara,NOT UNDERSERVED,0,None
+93110,Santa Barbara,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93111,Santa Barbara,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93117,Goleta,NOT UNDERSERVED,0,None
+93201,Alpaugh,NOT UNDERSERVED,0,None
+93202,Armona,NOT UNDERSERVED,0,None
+93203,Arvin,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93204,Avenal,NOT UNDERSERVED,0,None
+93205,Bodfish,NOT UNDERSERVED,0,None
+93206,Buttonwillow,NOT UNDERSERVED,0,None
+93207,California Hot Springs,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93208,Camp Nelson,NOT UNDERSERVED,0,None
+93210,Coalinga,UNDERSERVED,1,"[{'simplex_id': 11, 'office_names': ['Los Banos', 'Hollister', 'Coalinga']}]"
+93212,Corcoran,NOT UNDERSERVED,0,None
+93215,Delano,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93218,Ducor,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93219,Earlimart,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93221,Exeter,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93222,Pine Mountain Club,NOT UNDERSERVED,0,None
+93223,Farmersville,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93224,Fellows,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93225,Frazier Park,NOT UNDERSERVED,0,None
+93226,Glennville,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93230,Hanford,NOT UNDERSERVED,0,None
+93234,Huron,NOT UNDERSERVED,0,None
+93235,Ivanhoe,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93238,Kernville,NOT UNDERSERVED,0,None
+93239,Kettleman City,NOT UNDERSERVED,0,None
+93240,Lake Isabella,NOT UNDERSERVED,0,None
+93241,Lamont,NOT UNDERSERVED,0,None
+93242,Laton,NOT UNDERSERVED,0,None
+93243,Lebec,NOT UNDERSERVED,0,None
+93244,Lemon Cove,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93245,Lemoore,NOT UNDERSERVED,0,None
+93246,Lemoore,NOT UNDERSERVED,0,None
+93247,Lindsay,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93249,Lost Hills,NOT UNDERSERVED,0,None
+93250,Mc Farland,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93251,Mc Kittrick,NOT UNDERSERVED,0,None
+93252,Maricopa,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93254,New Cuyama,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93255,Onyx,NOT UNDERSERVED,0,None
+93256,Pixley,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93257,Porterville,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93260,Posey,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93262,Sequoia National Park,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93263,Shafter,NOT UNDERSERVED,0,None
+93265,Springville,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93266,Stratford,NOT UNDERSERVED,0,None
+93267,Strathmore,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93268,Taft,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93270,Terra Bella,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93271,Three Rivers,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93272,Tipton,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93274,Tulare,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93276,Tupman,NOT UNDERSERVED,0,None
+93277,Visalia,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93280,Wasco,NOT UNDERSERVED,0,None
+93283,Weldon,NOT UNDERSERVED,0,None
+93285,Wofford Heights,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93286,Woodlake,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93287,Woody,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93291,Visalia,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93292,Visalia,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93301,Bakersfield,NOT UNDERSERVED,0,None
+93304,Bakersfield,NOT UNDERSERVED,0,None
+93305,Bakersfield,NOT UNDERSERVED,0,None
+93306,Bakersfield,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93307,Bakersfield,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93308,Bakersfield,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93309,Bakersfield,NOT UNDERSERVED,0,None
+93311,Bakersfield,NOT UNDERSERVED,0,None
+93312,Bakersfield,NOT UNDERSERVED,0,None
+93313,Bakersfield,NOT UNDERSERVED,0,None
+93314,Bakersfield,NOT UNDERSERVED,0,None
+93401,San Luis Obispo,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93402,Los Osos,NOT UNDERSERVED,0,None
+93405,San Luis Obispo,NOT UNDERSERVED,0,None
+93407,San Luis Obispo,NOT UNDERSERVED,0,None
+93408,San Luis Obispo,NOT UNDERSERVED,0,None
+93410,San Luis Obispo,NOT UNDERSERVED,0,None
+93420,Arroyo Grande,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93421,Arroyo Grande,NOT UNDERSERVED,0,None
+93422,Atascadero,NOT UNDERSERVED,0,None
+93424,Avila Beach,NOT UNDERSERVED,0,None
+93426,Bradley,NOT UNDERSERVED,0,None
+93427,Buellton,NOT UNDERSERVED,0,None
+93428,Cambria,NOT UNDERSERVED,0,None
+93429,Casmalia,NOT UNDERSERVED,0,None
+93430,Cayucos,NOT UNDERSERVED,0,None
+93432,Creston,NOT UNDERSERVED,0,None
+93433,Grover Beach,NOT UNDERSERVED,0,None
+93434,Guadalupe,NOT UNDERSERVED,0,None
+93435,Harmony,NOT UNDERSERVED,0,None
+93436,Lompoc,NOT UNDERSERVED,0,None
+93437,Lompoc,NOT UNDERSERVED,0,None
+93440,Los Alamos,NOT UNDERSERVED,0,None
+93441,Los Olivos,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93442,Morro Bay,NOT UNDERSERVED,0,None
+93444,Nipomo,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93445,Oceano,NOT UNDERSERVED,0,None
+93446,Paso Robles,NOT UNDERSERVED,0,None
+93449,Pismo Beach,NOT UNDERSERVED,0,None
+93450,San Ardo,NOT UNDERSERVED,0,None
+93451,San Miguel,NOT UNDERSERVED,0,None
+93452,San Simeon,NOT UNDERSERVED,0,None
+93453,Santa Margarita,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93454,Santa Maria,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93455,Santa Maria,NOT UNDERSERVED,0,None
+93458,Santa Maria,NOT UNDERSERVED,0,None
+93460,Santa Ynez,UNDERSERVED,1,"[{'simplex_id': 5, 'office_names': ['Taft', 'Santa Barbara', 'San Luis Obispo']}]"
+93461,Shandon,NOT UNDERSERVED,0,None
+93463,Solvang,NOT UNDERSERVED,0,None
+93465,Templeton,NOT UNDERSERVED,0,None
+93501,Mojave,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93505,California City,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93510,Acton,NOT UNDERSERVED,0,None
+93512,Benton,UNDERSERVED,1,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}]"
+93513,Big Pine,NOT UNDERSERVED,0,None
+93514,Bishop,UNDERSERVED,2,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}, {'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93516,Boron,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93517,Bridgeport,UNDERSERVED,1,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}]"
+93518,Caliente,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93519,Cantil,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93523,Edwards,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93524,Edwards,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93526,Independence,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93527,Inyokern,NOT UNDERSERVED,0,None
+93528,Johannesburg,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93529,June Lake,UNDERSERVED,1,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}]"
+93531,Keene,NOT UNDERSERVED,0,None
+93532,Lake Hughes,NOT UNDERSERVED,0,None
+93534,Lancaster,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93535,Lancaster,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93536,Lancaster,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93541,Lee Vining,UNDERSERVED,1,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}]"
+93543,Littlerock,NOT UNDERSERVED,0,None
+93544,Llano,NOT UNDERSERVED,0,None
+93545,Lone Pine,NOT UNDERSERVED,0,None
+93546,Mammoth Lakes,UNDERSERVED,1,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}]"
+93549,Olancha,NOT UNDERSERVED,0,None
+93550,Palmdale,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93551,Palmdale,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93552,Palmdale,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93553,Pearblossom,NOT UNDERSERVED,0,None
+93554,Randsburg,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93555,Ridgecrest,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93558,Red Mountain,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93560,Rosamond,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93561,Tehachapi,NOT UNDERSERVED,0,None
+93562,Trona,NOT UNDERSERVED,0,None
+93563,Valyermo,NOT UNDERSERVED,0,None
+93591,Palmdale,UNDERSERVED,1,"[{'simplex_id': 6, 'office_names': ['Victorville', 'Lancaster', 'Lake Isabella']}]"
+93601,Ahwahnee,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93602,Auberry,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93603,Badger,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93604,Bass Lake,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93606,Biola,NOT UNDERSERVED,0,None
+93608,Cantua Creek,NOT UNDERSERVED,0,None
+93609,Caruthers,NOT UNDERSERVED,0,None
+93610,Chowchilla,NOT UNDERSERVED,0,None
+93611,Clovis,NOT UNDERSERVED,0,None
+93612,Clovis,NOT UNDERSERVED,0,None
+93614,Coarsegold,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93615,Cutler,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93616,Del Rey,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93618,Dinuba,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93619,Clovis,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93620,Dos Palos,NOT UNDERSERVED,0,None
+93621,Dunlap,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93622,Firebaugh,UNDERSERVED,1,"[{'simplex_id': 11, 'office_names': ['Los Banos', 'Hollister', 'Coalinga']}]"
+93623,Fish Camp,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93624,Five Points,NOT UNDERSERVED,0,None
+93625,Fowler,NOT UNDERSERVED,0,None
+93626,Friant,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93627,Helm,NOT UNDERSERVED,0,None
+93628,Hume,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93630,Kerman,NOT UNDERSERVED,0,None
+93631,Kingsburg,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93633,Kings Canyon National Pk,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93634,Lakeshore,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93635,Los Banos,UNDERSERVED,2,"[{'simplex_id': 11, 'office_names': ['Los Banos', 'Hollister', 'Coalinga']}, {'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+93636,Madera,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93637,Madera,NOT UNDERSERVED,0,None
+93638,Madera,NOT UNDERSERVED,0,None
+93640,Mendota,UNDERSERVED,1,"[{'simplex_id': 11, 'office_names': ['Los Banos', 'Hollister', 'Coalinga']}]"
+93641,Miramonte,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93643,North Fork,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93644,Oakhurst,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93645,O Neals,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93646,Orange Cove,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93647,Orosi,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93648,Parlier,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93650,Fresno,NOT UNDERSERVED,0,None
+93651,Prather,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93652,Raisin City,NOT UNDERSERVED,0,None
+93653,Raymond,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93654,Reedley,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93656,Riverdale,NOT UNDERSERVED,0,None
+93657,Sanger,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93660,San Joaquin,NOT UNDERSERVED,0,None
+93662,Selma,NOT UNDERSERVED,0,None
+93664,Shaver Lake,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93666,Sultana,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93667,Tollhouse,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93668,Tranquillity,NOT UNDERSERVED,0,None
+93669,Wishon,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93673,Traver,NOT UNDERSERVED,0,None
+93675,Squaw Valley,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93701,Fresno,NOT UNDERSERVED,0,None
+93702,Fresno,NOT UNDERSERVED,0,None
+93703,Fresno,NOT UNDERSERVED,0,None
+93704,Fresno,NOT UNDERSERVED,0,None
+93705,Fresno,NOT UNDERSERVED,0,None
+93706,Fresno,NOT UNDERSERVED,0,None
+93710,Fresno,NOT UNDERSERVED,0,None
+93711,Fresno,NOT UNDERSERVED,0,None
+93720,Fresno,NOT UNDERSERVED,0,None
+93721,Fresno,NOT UNDERSERVED,0,None
+93722,Fresno,NOT UNDERSERVED,0,None
+93723,Fresno,NOT UNDERSERVED,0,None
+93725,Fresno,NOT UNDERSERVED,0,None
+93726,Fresno,NOT UNDERSERVED,0,None
+93727,Fresno,NOT UNDERSERVED,0,None
+93728,Fresno,NOT UNDERSERVED,0,None
+93730,Fresno,NOT UNDERSERVED,0,None
+93737,Fresno,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+93741,Fresno,NOT UNDERSERVED,0,None
+93901,Salinas,UNDERSERVED,1,"[{'simplex_id': 16, 'office_names': ['Watsonville', 'Seaside', 'Salinas']}]"
+93905,Salinas,NOT UNDERSERVED,0,None
+93906,Salinas,UNDERSERVED,1,"[{'simplex_id': 16, 'office_names': ['Watsonville', 'Seaside', 'Salinas']}]"
+93907,Salinas,UNDERSERVED,1,"[{'simplex_id': 16, 'office_names': ['Watsonville', 'Seaside', 'Salinas']}]"
+93908,Salinas,UNDERSERVED,1,"[{'simplex_id': 16, 'office_names': ['Watsonville', 'Seaside', 'Salinas']}]"
+93920,Big Sur,NOT UNDERSERVED,0,None
+93923,Carmel,NOT UNDERSERVED,0,None
+93924,Carmel Valley,NOT UNDERSERVED,0,None
+93925,Chualar,NOT UNDERSERVED,0,None
+93926,Gonzales,NOT UNDERSERVED,0,None
+93927,Greenfield,NOT UNDERSERVED,0,None
+93930,King City,NOT UNDERSERVED,0,None
+93932,Lockwood,NOT UNDERSERVED,0,None
+93933,Marina,UNDERSERVED,1,"[{'simplex_id': 16, 'office_names': ['Watsonville', 'Seaside', 'Salinas']}]"
+93940,Monterey,NOT UNDERSERVED,0,None
+93943,Monterey,NOT UNDERSERVED,0,None
+93944,Monterey,NOT UNDERSERVED,0,None
+93950,Pacific Grove,NOT UNDERSERVED,0,None
+93953,Pebble Beach,NOT UNDERSERVED,0,None
+93954,San Lucas,NOT UNDERSERVED,0,None
+93955,Seaside,UNDERSERVED,1,"[{'simplex_id': 16, 'office_names': ['Watsonville', 'Seaside', 'Salinas']}]"
+93960,Soledad,NOT UNDERSERVED,0,None
+93962,Spreckels,NOT UNDERSERVED,0,None
+94002,Belmont,NOT UNDERSERVED,0,None
+94005,Brisbane,NOT UNDERSERVED,0,None
+94010,Burlingame,NOT UNDERSERVED,0,None
+94014,Daly City,NOT UNDERSERVED,0,None
+94015,Daly City,NOT UNDERSERVED,0,None
+94018,El Granada,NOT UNDERSERVED,0,None
+94019,Half Moon Bay,NOT UNDERSERVED,0,None
+94020,La Honda,NOT UNDERSERVED,0,None
+94021,Loma Mar,NOT UNDERSERVED,0,None
+94022,Los Altos,NOT UNDERSERVED,0,None
+94024,Los Altos,NOT UNDERSERVED,0,None
+94025,Menlo Park,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94027,Atherton,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94028,Portola Valley,NOT UNDERSERVED,0,None
+94030,Millbrae,NOT UNDERSERVED,0,None
+94035,Mountain View,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94037,Montara,NOT UNDERSERVED,0,None
+94038,Moss Beach,NOT UNDERSERVED,0,None
+94040,Mountain View,NOT UNDERSERVED,0,None
+94041,Mountain View,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94043,Mountain View,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94044,Pacifica,NOT UNDERSERVED,0,None
+94060,Pescadero,NOT UNDERSERVED,0,None
+94061,Redwood City,NOT UNDERSERVED,0,None
+94062,Redwood City,NOT UNDERSERVED,0,None
+94063,Redwood City,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94065,Redwood City,NOT UNDERSERVED,0,None
+94066,San Bruno,NOT UNDERSERVED,0,None
+94070,San Carlos,NOT UNDERSERVED,0,None
+94074,San Gregorio,NOT UNDERSERVED,0,None
+94080,South San Francisco,NOT UNDERSERVED,0,None
+94085,Sunnyvale,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94086,Sunnyvale,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94087,Sunnyvale,NOT UNDERSERVED,0,None
+94089,Sunnyvale,NOT UNDERSERVED,0,None
+94102,San Francisco,NOT UNDERSERVED,0,None
+94103,San Francisco,NOT UNDERSERVED,0,None
+94104,San Francisco,NOT UNDERSERVED,0,None
+94105,San Francisco,NOT UNDERSERVED,0,None
+94107,San Francisco,NOT UNDERSERVED,0,None
+94108,San Francisco,NOT UNDERSERVED,0,None
+94109,San Francisco,NOT UNDERSERVED,0,None
+94110,San Francisco,NOT UNDERSERVED,0,None
+94111,San Francisco,NOT UNDERSERVED,0,None
+94112,San Francisco,NOT UNDERSERVED,0,None
+94114,San Francisco,NOT UNDERSERVED,0,None
+94115,San Francisco,NOT UNDERSERVED,0,None
+94116,San Francisco,NOT UNDERSERVED,0,None
+94117,San Francisco,NOT UNDERSERVED,0,None
+94118,San Francisco,NOT UNDERSERVED,0,None
+94121,San Francisco,NOT UNDERSERVED,0,None
+94122,San Francisco,NOT UNDERSERVED,0,None
+94123,San Francisco,NOT UNDERSERVED,0,None
+94124,San Francisco,NOT UNDERSERVED,0,None
+94127,San Francisco,NOT UNDERSERVED,0,None
+94128,San Francisco,NOT UNDERSERVED,0,None
+94129,San Francisco,NOT UNDERSERVED,0,None
+94130,San Francisco,NOT UNDERSERVED,0,None
+94131,San Francisco,NOT UNDERSERVED,0,None
+94132,San Francisco,NOT UNDERSERVED,0,None
+94133,San Francisco,NOT UNDERSERVED,0,None
+94134,San Francisco,NOT UNDERSERVED,0,None
+94143,San Francisco,NOT UNDERSERVED,0,None
+94158,San Francisco,NOT UNDERSERVED,0,None
+94301,Palo Alto,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94303,Palo Alto,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94304,Palo Alto,NOT UNDERSERVED,0,None
+94305,Stanford,NOT UNDERSERVED,0,None
+94306,Palo Alto,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+94401,San Mateo,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94402,San Mateo,NOT UNDERSERVED,0,None
+94403,San Mateo,NOT UNDERSERVED,0,None
+94404,San Mateo,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94501,Alameda,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94502,Alameda,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94503,American Canyon,NOT UNDERSERVED,0,None
+94505,Discovery Bay,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94506,Danville,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94507,Alamo,NOT UNDERSERVED,0,None
+94508,Angwin,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94509,Antioch,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94510,Benicia,NOT UNDERSERVED,0,None
+94511,Bethel Island,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94512,Birds Landing,NOT UNDERSERVED,0,None
+94513,Brentwood,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94514,Byron,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94515,Calistoga,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94517,Clayton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94518,Concord,NOT UNDERSERVED,0,None
+94519,Concord,NOT UNDERSERVED,0,None
+94520,Concord,NOT UNDERSERVED,0,None
+94521,Concord,NOT UNDERSERVED,0,None
+94523,Pleasant Hill,NOT UNDERSERVED,0,None
+94525,Crockett,NOT UNDERSERVED,0,None
+94526,Danville,NOT UNDERSERVED,0,None
+94528,Diablo,NOT UNDERSERVED,0,None
+94530,El Cerrito,NOT UNDERSERVED,0,None
+94531,Antioch,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94533,Fairfield,NOT UNDERSERVED,0,None
+94534,Fairfield,NOT UNDERSERVED,0,None
+94535,Travis AFB,NOT UNDERSERVED,0,None
+94536,Fremont,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94538,Fremont,NOT UNDERSERVED,0,None
+94539,Fremont,NOT UNDERSERVED,0,None
+94541,Hayward,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94542,Hayward,NOT UNDERSERVED,0,None
+94544,Hayward,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94545,Hayward,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94546,Castro Valley,NOT UNDERSERVED,0,None
+94547,Hercules,NOT UNDERSERVED,0,None
+94548,Knightsen,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94549,Lafayette,NOT UNDERSERVED,0,None
+94550,Livermore,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+94551,Livermore,UNDERSERVED,2,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}, {'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94552,Castro Valley,NOT UNDERSERVED,0,None
+94553,Martinez,NOT UNDERSERVED,0,None
+94555,Fremont,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94556,Moraga,NOT UNDERSERVED,0,None
+94558,Napa,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94559,Napa,NOT UNDERSERVED,0,None
+94560,Newark,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94561,Oakley,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94563,Orinda,NOT UNDERSERVED,0,None
+94564,Pinole,NOT UNDERSERVED,0,None
+94565,Pittsburg,NOT UNDERSERVED,0,None
+94566,Pleasanton,UNDERSERVED,2,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}, {'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94567,Pope Valley,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94568,Dublin,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94569,Port Costa,NOT UNDERSERVED,0,None
+94571,Rio Vista,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94572,Rodeo,NOT UNDERSERVED,0,None
+94574,Saint Helena,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94576,Deer Park,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94577,San Leandro,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94578,San Leandro,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94579,San Leandro,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94580,San Lorenzo,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94582,San Ramon,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94583,San Ramon,NOT UNDERSERVED,0,None
+94585,Suisun City,NOT UNDERSERVED,0,None
+94586,Sunol,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+94587,Union City,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94588,Pleasanton,UNDERSERVED,2,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}, {'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+94589,Vallejo,NOT UNDERSERVED,0,None
+94590,Vallejo,NOT UNDERSERVED,0,None
+94591,Vallejo,NOT UNDERSERVED,0,None
+94592,Vallejo,NOT UNDERSERVED,0,None
+94595,Walnut Creek,NOT UNDERSERVED,0,None
+94596,Walnut Creek,NOT UNDERSERVED,0,None
+94597,Walnut Creek,NOT UNDERSERVED,0,None
+94598,Walnut Creek,NOT UNDERSERVED,0,None
+94599,Yountville,NOT UNDERSERVED,0,None
+94601,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94602,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94603,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94605,Oakland,NOT UNDERSERVED,0,None
+94606,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94607,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94608,Emeryville,NOT UNDERSERVED,0,None
+94609,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94610,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94611,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94612,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94613,Oakland,NOT UNDERSERVED,0,None
+94618,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94619,Oakland,NOT UNDERSERVED,0,None
+94621,Oakland,UNDERSERVED,1,"[{'simplex_id': 17, 'office_names': ['San Mateo', 'Oakland', 'Fremont']}]"
+94702,Berkeley,NOT UNDERSERVED,0,None
+94703,Berkeley,NOT UNDERSERVED,0,None
+94704,Berkeley,NOT UNDERSERVED,0,None
+94705,Berkeley,NOT UNDERSERVED,0,None
+94706,Albany,NOT UNDERSERVED,0,None
+94707,Berkeley,NOT UNDERSERVED,0,None
+94708,Berkeley,NOT UNDERSERVED,0,None
+94709,Berkeley,NOT UNDERSERVED,0,None
+94710,Berkeley,NOT UNDERSERVED,0,None
+94720,Berkeley,NOT UNDERSERVED,0,None
+94801,Richmond,NOT UNDERSERVED,0,None
+94803,El Sobrante,NOT UNDERSERVED,0,None
+94804,Richmond,NOT UNDERSERVED,0,None
+94805,Richmond,NOT UNDERSERVED,0,None
+94806,San Pablo,NOT UNDERSERVED,0,None
+94901,San Rafael,NOT UNDERSERVED,0,None
+94903,San Rafael,NOT UNDERSERVED,0,None
+94904,Greenbrae,NOT UNDERSERVED,0,None
+94920,Belvedere Tiburon,NOT UNDERSERVED,0,None
+94922,Bodega,NOT UNDERSERVED,0,None
+94923,Bodega Bay,NOT UNDERSERVED,0,None
+94924,Bolinas,NOT UNDERSERVED,0,None
+94925,Corte Madera,NOT UNDERSERVED,0,None
+94928,Rohnert Park,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94929,Dillon Beach,NOT UNDERSERVED,0,None
+94930,Fairfax,NOT UNDERSERVED,0,None
+94931,Cotati,NOT UNDERSERVED,0,None
+94933,Forest Knolls,NOT UNDERSERVED,0,None
+94937,Inverness,NOT UNDERSERVED,0,None
+94938,Lagunitas,NOT UNDERSERVED,0,None
+94939,Larkspur,NOT UNDERSERVED,0,None
+94940,Marshall,NOT UNDERSERVED,0,None
+94941,Mill Valley,NOT UNDERSERVED,0,None
+94945,Novato,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94946,Nicasio,NOT UNDERSERVED,0,None
+94947,Novato,NOT UNDERSERVED,0,None
+94949,Novato,NOT UNDERSERVED,0,None
+94951,Penngrove,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94952,Petaluma,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94954,Petaluma,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+94956,Point Reyes Station,NOT UNDERSERVED,0,None
+94957,Ross,NOT UNDERSERVED,0,None
+94960,San Anselmo,NOT UNDERSERVED,0,None
+94963,San Geronimo,NOT UNDERSERVED,0,None
+94964,San Quentin,NOT UNDERSERVED,0,None
+94965,Sausalito,NOT UNDERSERVED,0,None
+94970,Stinson Beach,NOT UNDERSERVED,0,None
+94971,Tomales,NOT UNDERSERVED,0,None
+94972,Valley Ford,NOT UNDERSERVED,0,None
+94973,Woodacre,NOT UNDERSERVED,0,None
+95002,Alviso,NOT UNDERSERVED,0,None
+95003,Aptos,NOT UNDERSERVED,0,None
+95004,Aromas,NOT UNDERSERVED,0,None
+95005,Ben Lomond,NOT UNDERSERVED,0,None
+95006,Boulder Creek,NOT UNDERSERVED,0,None
+95007,Brookdale,NOT UNDERSERVED,0,None
+95008,Campbell,NOT UNDERSERVED,0,None
+95010,Capitola,NOT UNDERSERVED,0,None
+95012,Castroville,UNDERSERVED,1,"[{'simplex_id': 16, 'office_names': ['Watsonville', 'Seaside', 'Salinas']}]"
+95013,Coyote,NOT UNDERSERVED,0,None
+95014,Cupertino,NOT UNDERSERVED,0,None
+95017,Davenport,NOT UNDERSERVED,0,None
+95018,Felton,NOT UNDERSERVED,0,None
+95019,Freedom,NOT UNDERSERVED,0,None
+95020,Gilroy,NOT UNDERSERVED,0,None
+95023,Hollister,UNDERSERVED,1,"[{'simplex_id': 11, 'office_names': ['Los Banos', 'Hollister', 'Coalinga']}]"
+95030,Los Gatos,NOT UNDERSERVED,0,None
+95032,Los Gatos,NOT UNDERSERVED,0,None
+95033,Los Gatos,NOT UNDERSERVED,0,None
+95035,Milpitas,NOT UNDERSERVED,0,None
+95037,Morgan Hill,NOT UNDERSERVED,0,None
+95039,Moss Landing,UNDERSERVED,1,"[{'simplex_id': 16, 'office_names': ['Watsonville', 'Seaside', 'Salinas']}]"
+95041,Mount Hermon,NOT UNDERSERVED,0,None
+95043,Paicines,UNDERSERVED,1,"[{'simplex_id': 11, 'office_names': ['Los Banos', 'Hollister', 'Coalinga']}]"
+95045,San Juan Bautista,NOT UNDERSERVED,0,None
+95046,San Martin,NOT UNDERSERVED,0,None
+95050,Santa Clara,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+95051,Santa Clara,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+95053,Santa Clara,NOT UNDERSERVED,0,None
+95054,Santa Clara,NOT UNDERSERVED,0,None
+95060,Santa Cruz,NOT UNDERSERVED,0,None
+95062,Santa Cruz,NOT UNDERSERVED,0,None
+95064,Santa Cruz,NOT UNDERSERVED,0,None
+95065,Santa Cruz,NOT UNDERSERVED,0,None
+95066,Scotts Valley,NOT UNDERSERVED,0,None
+95070,Saratoga,NOT UNDERSERVED,0,None
+95073,Soquel,NOT UNDERSERVED,0,None
+95075,Tres Pinos,NOT UNDERSERVED,0,None
+95076,Watsonville,UNDERSERVED,1,"[{'simplex_id': 16, 'office_names': ['Watsonville', 'Seaside', 'Salinas']}]"
+95110,San Jose,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+95111,San Jose,NOT UNDERSERVED,0,None
+95112,San Jose,NOT UNDERSERVED,0,None
+95113,San Jose,NOT UNDERSERVED,0,None
+95116,San Jose,NOT UNDERSERVED,0,None
+95117,San Jose,NOT UNDERSERVED,0,None
+95118,San Jose,NOT UNDERSERVED,0,None
+95119,San Jose,NOT UNDERSERVED,0,None
+95120,San Jose,NOT UNDERSERVED,0,None
+95121,San Jose,NOT UNDERSERVED,0,None
+95122,San Jose,NOT UNDERSERVED,0,None
+95123,San Jose,NOT UNDERSERVED,0,None
+95124,San Jose,NOT UNDERSERVED,0,None
+95125,San Jose,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+95126,San Jose,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+95127,San Jose,NOT UNDERSERVED,0,None
+95128,San Jose,UNDERSERVED,1,"[{'simplex_id': 18, 'office_names': ['Santa Clara', 'San Jose', 'Redwood City']}]"
+95129,San Jose,NOT UNDERSERVED,0,None
+95130,San Jose,NOT UNDERSERVED,0,None
+95131,San Jose,NOT UNDERSERVED,0,None
+95132,San Jose,NOT UNDERSERVED,0,None
+95133,San Jose,NOT UNDERSERVED,0,None
+95134,San Jose,NOT UNDERSERVED,0,None
+95135,San Jose,NOT UNDERSERVED,0,None
+95136,San Jose,NOT UNDERSERVED,0,None
+95138,San Jose,NOT UNDERSERVED,0,None
+95139,San Jose,NOT UNDERSERVED,0,None
+95140,Mount Hamilton,NOT UNDERSERVED,0,None
+95141,San Jose,NOT UNDERSERVED,0,None
+95148,San Jose,NOT UNDERSERVED,0,None
+95192,San Jose,NOT UNDERSERVED,0,None
+95202,Stockton,NOT UNDERSERVED,0,None
+95203,Stockton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95204,Stockton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95205,Stockton,NOT UNDERSERVED,0,None
+95206,Stockton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95207,Stockton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95209,Stockton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95210,Stockton,NOT UNDERSERVED,0,None
+95211,Stockton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95212,Stockton,NOT UNDERSERVED,0,None
+95215,Stockton,NOT UNDERSERVED,0,None
+95219,Stockton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95220,Acampo,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95222,Angels Camp,NOT UNDERSERVED,0,None
+95223,Arnold,NOT UNDERSERVED,0,None
+95224,Avery,NOT UNDERSERVED,0,None
+95225,Burson,NOT UNDERSERVED,0,None
+95226,Campo Seco,NOT UNDERSERVED,0,None
+95227,Clements,NOT UNDERSERVED,0,None
+95228,Copperopolis,NOT UNDERSERVED,0,None
+95230,Farmington,NOT UNDERSERVED,0,None
+95231,French Camp,NOT UNDERSERVED,0,None
+95232,Glencoe,NOT UNDERSERVED,0,None
+95236,Linden,NOT UNDERSERVED,0,None
+95237,Lockeford,NOT UNDERSERVED,0,None
+95240,Lodi,NOT UNDERSERVED,0,None
+95242,Lodi,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95245,Mokelumne Hill,NOT UNDERSERVED,0,None
+95246,Mountain Ranch,NOT UNDERSERVED,0,None
+95247,Murphys,NOT UNDERSERVED,0,None
+95248,Rail Road Flat,NOT UNDERSERVED,0,None
+95249,San Andreas,NOT UNDERSERVED,0,None
+95251,Vallecito,NOT UNDERSERVED,0,None
+95252,Valley Springs,NOT UNDERSERVED,0,None
+95253,Victor,NOT UNDERSERVED,0,None
+95254,Wallace,NOT UNDERSERVED,0,None
+95255,West Point,NOT UNDERSERVED,0,None
+95257,Wilseyville,NOT UNDERSERVED,0,None
+95258,Woodbridge,NOT UNDERSERVED,0,None
+95301,Atwater,NOT UNDERSERVED,0,None
+95303,Ballico,NOT UNDERSERVED,0,None
+95304,Tracy,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95305,Big Oak Flat,NOT UNDERSERVED,0,None
+95306,Catheys Valley,NOT UNDERSERVED,0,None
+95307,Ceres,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95310,Columbia,NOT UNDERSERVED,0,None
+95311,Coulterville,NOT UNDERSERVED,0,None
+95312,Cressey,NOT UNDERSERVED,0,None
+95313,Crows Landing,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95315,Delhi,NOT UNDERSERVED,0,None
+95316,Denair,NOT UNDERSERVED,0,None
+95317,El Nido,NOT UNDERSERVED,0,None
+95318,El Portal,NOT UNDERSERVED,0,None
+95319,Empire,NOT UNDERSERVED,0,None
+95320,Escalon,NOT UNDERSERVED,0,None
+95321,Groveland,NOT UNDERSERVED,0,None
+95322,Gustine,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95323,Hickman,NOT UNDERSERVED,0,None
+95324,Hilmar,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95326,Hughson,NOT UNDERSERVED,0,None
+95327,Jamestown,NOT UNDERSERVED,0,None
+95328,Keyes,NOT UNDERSERVED,0,None
+95329,La Grange,NOT UNDERSERVED,0,None
+95330,Lathrop,NOT UNDERSERVED,0,None
+95333,Le Grand,NOT UNDERSERVED,0,None
+95334,Livingston,NOT UNDERSERVED,0,None
+95335,Long Barn,NOT UNDERSERVED,0,None
+95336,Manteca,NOT UNDERSERVED,0,None
+95337,Manteca,NOT UNDERSERVED,0,None
+95338,Mariposa,UNDERSERVED,1,"[{'simplex_id': 1, 'office_names': ['Mariposa', 'Bishop', 'Arvin']}]"
+95340,Merced,NOT UNDERSERVED,0,None
+95341,Merced,NOT UNDERSERVED,0,None
+95345,Midpines,NOT UNDERSERVED,0,None
+95346,MI Wuk Village,NOT UNDERSERVED,0,None
+95348,Merced,NOT UNDERSERVED,0,None
+95350,Modesto,NOT UNDERSERVED,0,None
+95351,Modesto,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95354,Modesto,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95355,Modesto,NOT UNDERSERVED,0,None
+95356,Modesto,NOT UNDERSERVED,0,None
+95357,Modesto,NOT UNDERSERVED,0,None
+95358,Modesto,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95360,Newman,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95361,Oakdale,NOT UNDERSERVED,0,None
+95363,Patterson,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95364,Pinecrest,NOT UNDERSERVED,0,None
+95365,Planada,NOT UNDERSERVED,0,None
+95366,Ripon,NOT UNDERSERVED,0,None
+95367,Riverbank,NOT UNDERSERVED,0,None
+95368,Salida,NOT UNDERSERVED,0,None
+95369,Snelling,NOT UNDERSERVED,0,None
+95370,Sonora,NOT UNDERSERVED,0,None
+95372,Soulsbyville,NOT UNDERSERVED,0,None
+95374,Stevinson,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95376,Tracy,NOT UNDERSERVED,0,None
+95377,Tracy,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95379,Tuolumne,NOT UNDERSERVED,0,None
+95380,Turlock,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95382,Turlock,NOT UNDERSERVED,0,None
+95383,Twain Harte,NOT UNDERSERVED,0,None
+95385,Vernalis,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95386,Waterford,NOT UNDERSERVED,0,None
+95387,Westley,UNDERSERVED,1,"[{'simplex_id': 13, 'office_names': ['Pleasanton', 'Modesto', 'Los Banos']}]"
+95388,Winton,NOT UNDERSERVED,0,None
+95389,Yosemite National Park,NOT UNDERSERVED,0,None
+95391,Tracy,NOT UNDERSERVED,0,None
+95401,Santa Rosa,NOT UNDERSERVED,0,None
+95403,Santa Rosa,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95404,Santa Rosa,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95405,Santa Rosa,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95407,Santa Rosa,NOT UNDERSERVED,0,None
+95409,Santa Rosa,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95410,Albion,NOT UNDERSERVED,0,None
+95412,Annapolis,NOT UNDERSERVED,0,None
+95415,Boonville,NOT UNDERSERVED,0,None
+95417,Branscomb,NOT UNDERSERVED,0,None
+95419,Camp Meeker,NOT UNDERSERVED,0,None
+95420,Caspar,NOT UNDERSERVED,0,None
+95421,Cazadero,NOT UNDERSERVED,0,None
+95422,Clearlake,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95423,Clearlake Oaks,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95425,Cloverdale,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95426,Cobb,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95427,Comptche,NOT UNDERSERVED,0,None
+95428,Covelo,NOT UNDERSERVED,0,None
+95429,Dos Rios,NOT UNDERSERVED,0,None
+95432,Elk,NOT UNDERSERVED,0,None
+95436,Forestville,NOT UNDERSERVED,0,None
+95437,Fort Bragg,NOT UNDERSERVED,0,None
+95439,Fulton,NOT UNDERSERVED,0,None
+95441,Geyserville,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95442,Glen Ellen,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95443,Glenhaven,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95444,Graton,NOT UNDERSERVED,0,None
+95445,Gualala,NOT UNDERSERVED,0,None
+95446,Guerneville,NOT UNDERSERVED,0,None
+95448,Healdsburg,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95449,Hopland,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95450,Jenner,NOT UNDERSERVED,0,None
+95451,Kelseyville,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95452,Kenwood,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95453,Lakeport,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95454,Laytonville,NOT UNDERSERVED,0,None
+95456,Little River,NOT UNDERSERVED,0,None
+95457,Lower Lake,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95458,Lucerne,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95459,Manchester,NOT UNDERSERVED,0,None
+95460,Mendocino,NOT UNDERSERVED,0,None
+95461,Middletown,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95462,Monte Rio,NOT UNDERSERVED,0,None
+95463,Navarro,NOT UNDERSERVED,0,None
+95464,Nice,NOT UNDERSERVED,0,None
+95465,Occidental,NOT UNDERSERVED,0,None
+95466,Philo,NOT UNDERSERVED,0,None
+95467,Hidden Valley Lake,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95468,Point Arena,NOT UNDERSERVED,0,None
+95469,Potter Valley,NOT UNDERSERVED,0,None
+95470,Redwood Valley,NOT UNDERSERVED,0,None
+95471,Rio Nido,NOT UNDERSERVED,0,None
+95472,Sebastopol,NOT UNDERSERVED,0,None
+95476,Sonoma,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95482,Ukiah,NOT UNDERSERVED,0,None
+95485,Upper Lake,NOT UNDERSERVED,0,None
+95488,Westport,NOT UNDERSERVED,0,None
+95490,Willits,NOT UNDERSERVED,0,None
+95492,Windsor,NOT UNDERSERVED,0,None
+95493,Witter Springs,NOT UNDERSERVED,0,None
+95494,Yorkville,NOT UNDERSERVED,0,None
+95497,The Sea Ranch,NOT UNDERSERVED,0,None
+95501,Eureka,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+95503,Eureka,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+95511,Alderpoint,NOT UNDERSERVED,0,None
+95514,Blocksburg,NOT UNDERSERVED,0,None
+95519,McKinleyville,NOT UNDERSERVED,0,None
+95521,Arcata,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+95524,Bayside,NOT UNDERSERVED,0,None
+95525,Blue Lake,NOT UNDERSERVED,0,None
+95526,Bridgeville,NOT UNDERSERVED,0,None
+95527,Burnt Ranch,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+95528,Carlotta,NOT UNDERSERVED,0,None
+95531,Crescent City,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+95536,Ferndale,NOT UNDERSERVED,0,None
+95540,Fortuna,NOT UNDERSERVED,0,None
+95542,Garberville,NOT UNDERSERVED,0,None
+95543,Gasquet,NOT UNDERSERVED,0,None
+95546,Hoopa,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+95547,Hydesville,NOT UNDERSERVED,0,None
+95548,Klamath,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+95549,Kneeland,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+95550,Korbel,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+95551,Loleta,NOT UNDERSERVED,0,None
+95552,Mad River,NOT UNDERSERVED,0,None
+95553,Miranda,NOT UNDERSERVED,0,None
+95554,Myers Flat,NOT UNDERSERVED,0,None
+95555,Orick,NOT UNDERSERVED,0,None
+95556,Orleans,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+95558,Petrolia,NOT UNDERSERVED,0,None
+95560,Redway,NOT UNDERSERVED,0,None
+95562,Rio Dell,NOT UNDERSERVED,0,None
+95563,Salyer,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+95564,Samoa,NOT UNDERSERVED,0,None
+95565,Scotia,NOT UNDERSERVED,0,None
+95567,Smith River,NOT UNDERSERVED,0,None
+95568,Somes Bar,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+95569,Redcrest,NOT UNDERSERVED,0,None
+95570,Trinidad,NOT UNDERSERVED,0,None
+95571,Weott,NOT UNDERSERVED,0,None
+95573,Willow Creek,NOT UNDERSERVED,0,None
+95585,Leggett,NOT UNDERSERVED,0,None
+95587,Piercy,NOT UNDERSERVED,0,None
+95589,Whitethorn,NOT UNDERSERVED,0,None
+95595,Zenia,NOT UNDERSERVED,0,None
+95601,Amador City,NOT UNDERSERVED,0,None
+95602,Auburn,NOT UNDERSERVED,0,None
+95603,Auburn,NOT UNDERSERVED,0,None
+95605,West Sacramento,NOT UNDERSERVED,0,None
+95606,Brooks,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95607,Capay,NOT UNDERSERVED,0,None
+95608,Carmichael,NOT UNDERSERVED,0,None
+95610,Citrus Heights,NOT UNDERSERVED,0,None
+95612,Clarksburg,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95614,Cool,NOT UNDERSERVED,0,None
+95615,Courtland,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95616,Davis,NOT UNDERSERVED,0,None
+95618,Davis,NOT UNDERSERVED,0,None
+95619,Diamond Springs,NOT UNDERSERVED,0,None
+95620,Dixon,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95621,Citrus Heights,NOT UNDERSERVED,0,None
+95623,El Dorado,NOT UNDERSERVED,0,None
+95624,Elk Grove,NOT UNDERSERVED,0,None
+95626,Elverta,NOT UNDERSERVED,0,None
+95627,Esparto,NOT UNDERSERVED,0,None
+95628,Fair Oaks,NOT UNDERSERVED,0,None
+95629,Fiddletown,NOT UNDERSERVED,0,None
+95630,Folsom,NOT UNDERSERVED,0,None
+95631,Foresthill,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+95632,Galt,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95633,Garden Valley,NOT UNDERSERVED,0,None
+95634,Georgetown,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+95635,Greenwood,NOT UNDERSERVED,0,None
+95636,Grizzly Flats,NOT UNDERSERVED,0,None
+95637,Guinda,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95638,Herald,NOT UNDERSERVED,0,None
+95640,Ione,NOT UNDERSERVED,0,None
+95641,Isleton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95642,Jackson,NOT UNDERSERVED,0,None
+95645,Knights Landing,NOT UNDERSERVED,0,None
+95648,Lincoln,NOT UNDERSERVED,0,None
+95650,Loomis,NOT UNDERSERVED,0,None
+95651,Lotus,NOT UNDERSERVED,0,None
+95652,McClellan,NOT UNDERSERVED,0,None
+95653,Madison,NOT UNDERSERVED,0,None
+95655,Mather,NOT UNDERSERVED,0,None
+95658,Newcastle,NOT UNDERSERVED,0,None
+95659,Nicolaus,NOT UNDERSERVED,0,None
+95660,North Highlands,NOT UNDERSERVED,0,None
+95661,Roseville,NOT UNDERSERVED,0,None
+95662,Orangevale,NOT UNDERSERVED,0,None
+95663,Penryn,NOT UNDERSERVED,0,None
+95664,Pilot Hill,NOT UNDERSERVED,0,None
+95665,Pine Grove,NOT UNDERSERVED,0,None
+95666,Pioneer,NOT UNDERSERVED,0,None
+95667,Placerville,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+95668,Pleasant Grove,NOT UNDERSERVED,0,None
+95669,Plymouth,NOT UNDERSERVED,0,None
+95670,Rancho Cordova,NOT UNDERSERVED,0,None
+95672,Rescue,NOT UNDERSERVED,0,None
+95673,Rio Linda,NOT UNDERSERVED,0,None
+95674,Rio Oso,NOT UNDERSERVED,0,None
+95676,Robbins,NOT UNDERSERVED,0,None
+95677,Rocklin,NOT UNDERSERVED,0,None
+95678,Roseville,NOT UNDERSERVED,0,None
+95679,Rumsey,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95681,Sheridan,NOT UNDERSERVED,0,None
+95682,Shingle Springs,NOT UNDERSERVED,0,None
+95683,Sloughhouse,NOT UNDERSERVED,0,None
+95684,Somerset,NOT UNDERSERVED,0,None
+95685,Sutter Creek,NOT UNDERSERVED,0,None
+95686,Thornton,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95687,Vacaville,NOT UNDERSERVED,0,None
+95688,Vacaville,NOT UNDERSERVED,0,None
+95689,Volcano,NOT UNDERSERVED,0,None
+95690,Walnut Grove,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95691,West Sacramento,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95692,Wheatland,NOT UNDERSERVED,0,None
+95693,Wilton,NOT UNDERSERVED,0,None
+95694,Winters,NOT UNDERSERVED,0,None
+95695,Woodland,NOT UNDERSERVED,0,None
+95697,Yolo,NOT UNDERSERVED,0,None
+95698,Zamora,NOT UNDERSERVED,0,None
+95699,Drytown,NOT UNDERSERVED,0,None
+95701,Alta,NOT UNDERSERVED,0,None
+95703,Applegate,NOT UNDERSERVED,0,None
+95709,Camino,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+95713,Colfax,NOT UNDERSERVED,0,None
+95714,Dutch Flat,NOT UNDERSERVED,0,None
+95715,Emigrant Gap,NOT UNDERSERVED,0,None
+95717,Gold Run,NOT UNDERSERVED,0,None
+95720,Kyburz,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+95721,Echo Lake,NOT UNDERSERVED,0,None
+95722,Meadow Vista,NOT UNDERSERVED,0,None
+95724,Norden,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+95726,Pollock Pines,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+95728,Soda Springs,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95735,Twin Bridges,NOT UNDERSERVED,0,None
+95736,Weimar,NOT UNDERSERVED,0,None
+95742,Rancho Cordova,NOT UNDERSERVED,0,None
+95746,Granite Bay,NOT UNDERSERVED,0,None
+95747,Roseville,NOT UNDERSERVED,0,None
+95757,Elk Grove,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95758,Elk Grove,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95762,El Dorado Hills,NOT UNDERSERVED,0,None
+95765,Rocklin,NOT UNDERSERVED,0,None
+95776,Woodland,NOT UNDERSERVED,0,None
+95811,Sacramento,NOT UNDERSERVED,0,None
+95814,Sacramento,NOT UNDERSERVED,0,None
+95815,Sacramento,NOT UNDERSERVED,0,None
+95816,Sacramento,NOT UNDERSERVED,0,None
+95817,Sacramento,NOT UNDERSERVED,0,None
+95818,Sacramento,NOT UNDERSERVED,0,None
+95819,Sacramento,NOT UNDERSERVED,0,None
+95820,Sacramento,NOT UNDERSERVED,0,None
+95821,Sacramento,NOT UNDERSERVED,0,None
+95822,Sacramento,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95823,Sacramento,NOT UNDERSERVED,0,None
+95824,Sacramento,NOT UNDERSERVED,0,None
+95825,Sacramento,NOT UNDERSERVED,0,None
+95826,Sacramento,NOT UNDERSERVED,0,None
+95827,Sacramento,NOT UNDERSERVED,0,None
+95828,Sacramento,NOT UNDERSERVED,0,None
+95829,Sacramento,NOT UNDERSERVED,0,None
+95830,Sacramento,NOT UNDERSERVED,0,None
+95831,Sacramento,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95832,Sacramento,UNDERSERVED,1,"[{'simplex_id': 14, 'office_names': ['West Sacramento Commercial Drive Test Center', 'Stockton', 'Pleasanton']}]"
+95833,Sacramento,NOT UNDERSERVED,0,None
+95834,Sacramento,NOT UNDERSERVED,0,None
+95835,Sacramento,NOT UNDERSERVED,0,None
+95836,Sacramento,NOT UNDERSERVED,0,None
+95837,Sacramento,NOT UNDERSERVED,0,None
+95838,Sacramento,NOT UNDERSERVED,0,None
+95841,Sacramento,NOT UNDERSERVED,0,None
+95842,Sacramento,NOT UNDERSERVED,0,None
+95843,Antelope,NOT UNDERSERVED,0,None
+95864,Sacramento,NOT UNDERSERVED,0,None
+95901,Marysville,UNDERSERVED,1,"[{'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+95903,Beale AFB,NOT UNDERSERVED,0,None
+95910,Alleghany,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95912,Arbuckle,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95913,Artois,NOT UNDERSERVED,0,None
+95914,Bangor,NOT UNDERSERVED,0,None
+95915,Belden,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+95916,Berry Creek,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95917,Biggs,UNDERSERVED,1,"[{'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+95918,Browns Valley,NOT UNDERSERVED,0,None
+95919,Brownsville,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95920,Butte City,NOT UNDERSERVED,0,None
+95922,Camptonville,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95923,Canyon Dam,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+95925,Challenge,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95926,Chico,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+95928,Chico,NOT UNDERSERVED,0,None
+95930,Clipper Mills,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95932,Colusa,UNDERSERVED,2,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}, {'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+95934,Crescent Mills,NOT UNDERSERVED,0,None
+95935,Dobbins,NOT UNDERSERVED,0,None
+95936,Downieville,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95937,Dunnigan,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95938,Durham,NOT UNDERSERVED,0,None
+95939,Elk Creek,NOT UNDERSERVED,0,None
+95941,Forbestown,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95942,Forest Ranch,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+95943,Glenn,NOT UNDERSERVED,0,None
+95944,Goodyears Bar,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95945,Grass Valley,NOT UNDERSERVED,0,None
+95946,Penn Valley,NOT UNDERSERVED,0,None
+95947,Greenville,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+95948,Gridley,UNDERSERVED,1,"[{'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+95949,Grass Valley,NOT UNDERSERVED,0,None
+95951,Hamilton City,NOT UNDERSERVED,0,None
+95953,Live Oak,UNDERSERVED,1,"[{'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+95954,Magalia,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+95955,Maxwell,NOT UNDERSERVED,0,None
+95956,Meadow Valley,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95957,Meridian,UNDERSERVED,1,"[{'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+95959,Nevada City,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95960,North San Juan,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95961,Olivehurst,NOT UNDERSERVED,0,None
+95962,Oregon House,NOT UNDERSERVED,0,None
+95963,Orland,NOT UNDERSERVED,0,None
+95965,Oroville,UNDERSERVED,3,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}, {'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}, {'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+95966,Oroville,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95968,Palermo,NOT UNDERSERVED,0,None
+95969,Paradise,NOT UNDERSERVED,0,None
+95970,Princeton,NOT UNDERSERVED,0,None
+95971,Quincy,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95972,Rackerby,NOT UNDERSERVED,0,None
+95973,Chico,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+95974,Richvale,NOT UNDERSERVED,0,None
+95975,Rough and Ready,NOT UNDERSERVED,0,None
+95977,Smartsville,NOT UNDERSERVED,0,None
+95978,Stirling City,NOT UNDERSERVED,0,None
+95979,Stonyford,NOT UNDERSERVED,0,None
+95981,Strawberry Valley,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+95982,Sutter,UNDERSERVED,1,"[{'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+95983,Taylorsville,NOT UNDERSERVED,0,None
+95984,Twain,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+95987,Williams,UNDERSERVED,1,"[{'simplex_id': 10, 'office_names': ['Novato', 'Lakeport', 'Colusa']}]"
+95988,Willows,NOT UNDERSERVED,0,None
+95991,Yuba City,UNDERSERVED,1,"[{'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+95993,Yuba City,UNDERSERVED,1,"[{'simplex_id': 15, 'office_names': ['Yuba City', 'Oroville', 'Colusa']}]"
+96001,Redding,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96002,Redding,NOT UNDERSERVED,0,None
+96003,Redding,NOT UNDERSERVED,0,None
+96006,Adin,NOT UNDERSERVED,0,None
+96007,Anderson,NOT UNDERSERVED,0,None
+96008,Bella Vista,NOT UNDERSERVED,0,None
+96009,Bieber,NOT UNDERSERVED,0,None
+96010,Big Bar,UNDERSERVED,2,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}, {'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96013,Burney,NOT UNDERSERVED,0,None
+96014,Callahan,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+96015,Canby,NOT UNDERSERVED,0,None
+96016,Cassel,NOT UNDERSERVED,0,None
+96017,Castella,NOT UNDERSERVED,0,None
+96019,Shasta Lake,NOT UNDERSERVED,0,None
+96020,Chester,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+96021,Corning,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+96022,Cottonwood,NOT UNDERSERVED,0,None
+96023,Dorris,NOT UNDERSERVED,0,None
+96024,Douglas City,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96025,Dunsmuir,NOT UNDERSERVED,0,None
+96027,Etna,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+96028,Fall River Mills,NOT UNDERSERVED,0,None
+96031,Forks of Salmon,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+96032,Fort Jones,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+96033,French Gulch,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96034,Gazelle,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+96035,Gerber,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+96038,Grenada,NOT UNDERSERVED,0,None
+96039,Happy Camp,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+96040,Hat Creek,NOT UNDERSERVED,0,None
+96041,Hayfork,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96044,Hornbrook,NOT UNDERSERVED,0,None
+96046,Hyampom,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96047,Igo,NOT UNDERSERVED,0,None
+96048,Junction City,UNDERSERVED,2,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}, {'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96050,Klamath River,NOT UNDERSERVED,0,None
+96051,Lakehead,NOT UNDERSERVED,0,None
+96052,Lewiston,UNDERSERVED,2,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}, {'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96054,Lookout,NOT UNDERSERVED,0,None
+96055,Los Molinos,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+96056,McArthur,NOT UNDERSERVED,0,None
+96057,McCloud,NOT UNDERSERVED,0,None
+96058,Macdoel,NOT UNDERSERVED,0,None
+96059,Manton,NOT UNDERSERVED,0,None
+96061,Mill Creek,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+96062,Millville,NOT UNDERSERVED,0,None
+96063,Mineral,NOT UNDERSERVED,0,None
+96064,Montague,NOT UNDERSERVED,0,None
+96065,Montgomery Creek,NOT UNDERSERVED,0,None
+96067,Mount Shasta,NOT UNDERSERVED,0,None
+96069,Oak Run,NOT UNDERSERVED,0,None
+96071,Old Station,NOT UNDERSERVED,0,None
+96073,Palo Cedro,NOT UNDERSERVED,0,None
+96075,Paynes Creek,NOT UNDERSERVED,0,None
+96076,Platina,NOT UNDERSERVED,0,None
+96080,Red Bluff,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+96085,Scott Bar,NOT UNDERSERVED,0,None
+96086,Seiad Valley,NOT UNDERSERVED,0,None
+96087,Shasta,UNDERSERVED,1,"[{'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96088,Shingletown,NOT UNDERSERVED,0,None
+96089,Shasta Lake,NOT UNDERSERVED,0,None
+96091,Trinity Center,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+96093,Weaverville,UNDERSERVED,2,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}, {'simplex_id': 3, 'office_names': ['Weaverville', 'Redding', 'Eureka']}]"
+96094,Weed,NOT UNDERSERVED,0,None
+96096,Whitmore,NOT UNDERSERVED,0,None
+96097,Yreka,UNDERSERVED,1,"[{'simplex_id': 2, 'office_names': ['Yreka', 'Weaverville', 'Crescent City']}]"
+96101,Alturas,NOT UNDERSERVED,0,None
+96103,Blairsden Graeagle,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+96104,Cedarville,NOT UNDERSERVED,0,None
+96105,Chilcoot,NOT UNDERSERVED,0,None
+96106,Clio,NOT UNDERSERVED,0,None
+96107,Coleville,UNDERSERVED,1,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}]"
+96108,Davis Creek,NOT UNDERSERVED,0,None
+96109,Doyle,NOT UNDERSERVED,0,None
+96110,Eagleville,NOT UNDERSERVED,0,None
+96111,Floriston,NOT UNDERSERVED,0,None
+96112,Fort Bidwell,NOT UNDERSERVED,0,None
+96113,Herlong,NOT UNDERSERVED,0,None
+96114,Janesville,NOT UNDERSERVED,0,None
+96115,Lake City,NOT UNDERSERVED,0,None
+96116,Likely,NOT UNDERSERVED,0,None
+96117,Litchfield,NOT UNDERSERVED,0,None
+96118,Loyalton,NOT UNDERSERVED,0,None
+96119,Madeline,NOT UNDERSERVED,0,None
+96120,Markleeville,UNDERSERVED,1,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}]"
+96121,Milford,NOT UNDERSERVED,0,None
+96122,Portola,NOT UNDERSERVED,0,None
+96123,Ravendale,NOT UNDERSERVED,0,None
+96124,Calpine,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+96125,Sierra City,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+96126,Sierraville,UNDERSERVED,1,"[{'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}]"
+96128,Standish,NOT UNDERSERVED,0,None
+96129,Beckwourth,NOT UNDERSERVED,0,None
+96130,Susanville,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+96132,Termo,NOT UNDERSERVED,0,None
+96133,Topaz,UNDERSERVED,1,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}]"
+96134,Tulelake,NOT UNDERSERVED,0,None
+96136,Wendel,NOT UNDERSERVED,0,None
+96137,Westwood,UNDERSERVED,1,"[{'simplex_id': 7, 'office_names': ['Susanville', 'Red Bluff', 'Chico']}]"
+96140,Carnelian Bay,UNDERSERVED,2,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}, {'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+96141,Homewood,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+96142,Tahoma,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+96143,Kings Beach,NOT UNDERSERVED,0,None
+96145,Tahoe City,UNDERSERVED,2,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}, {'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+96146,Olympic Valley,UNDERSERVED,1,"[{'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+96148,Tahoe Vista,NOT UNDERSERVED,0,None
+96150,South Lake Tahoe,UNDERSERVED,2,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}, {'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+96161,Truckee,UNDERSERVED,3,"[{'simplex_id': 0, 'office_names': ['Truckee', 'South Lake Tahoe', 'Bishop']}, {'simplex_id': 8, 'office_names': ['Truckee', 'Quincy', 'Oroville']}, {'simplex_id': 12, 'office_names': ['Truckee', 'South Lake Tahoe', 'Placerville']}]"
+96162,Truckee,NOT UNDERSERVED,0,None
