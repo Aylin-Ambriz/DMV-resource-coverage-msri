@@ -20,11 +20,11 @@ from matplotlib.colors import LinearSegmentedColormap
 
 class DMVZipCodeMapper:
     def __init__(self):
-        self.data_file = "pre-processing/data/dmv_offices_complete.json"
-        self.output_file = "pre-processing/output/dmv_zip_codes.html"
-        self.zip_analysis_file = "pre-processing/data/dmv_zip_code_analysis.json"
-        self.static_image_file = "pre-processing/output/dmv_zip_codes_map.png"
-        self.zip_codes_file = "pre-processing/data/zip_data/zip_poly.shp"
+        self.data_file = "/data/dmv_offices_complete.json"
+        self.output_file = "/output/dmv_zip_codes.html"
+        self.zip_analysis_file = "/data/dmv_zip_code_analysis.json"
+        self.static_image_file = "/output/dmv_zip_codes_map.png"
+        self.zip_codes_file = "/data/zip_data/zip_poly.shp"
         
     def load_zip_codes(self):
         """Load California zip codes from local shapefile with proper CRS handling"""
@@ -402,7 +402,7 @@ class DMVZipCodeMapper:
             ])
             
             ax.legend(handles=legend_elements, loc='center left', bbox_to_anchor=(1, 0.5), 
-                     fontsize=10, title='Wait Time Categories', title_fontsize=12)
+                     fontsize=10, title='Wait Time Categories', title_fontsize=24)
             
             # Add subtitle with statistics
             wait_times = [zip_info['wait_time'] for zip_info in zip_data if zip_info['wait_time'] is not None]
@@ -633,7 +633,7 @@ class DMVZipCodeMapper:
         print("=" * 60)
         
         # Create output directory
-        os.makedirs("pre-processing/output", exist_ok=True)
+        os.makedirs("/output", exist_ok=True)
         
         # Step 1: Load zip codes (with California filtering)
         zip_gdf = self.load_zip_codes()
