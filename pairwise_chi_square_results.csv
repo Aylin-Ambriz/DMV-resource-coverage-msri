@@ -1,0 +1,22 @@
+Comparison,Chi2,p-value,p-adjusted (Bonferroni),Reject Null
+Two or More Races vs White,5898.575245310467,0.0,0.0,True
+Two or More Races vs Black or African American,3668.6265543212726,0.0,0.0,True
+Two or More Races vs American Indian and Alaska Native,259.68591637128065,2.0089957945499144e-58,4.21889116855482e-57,True
+Two or More Races vs Asian,92.41341432476898,7.033572283907942e-22,1.477050179620668e-20,True
+Two or More Races vs Native Hawaiian and Other Pacific Islander,2704.3725421149165,0.0,0.0,True
+Two or More Races vs Other Race,5961.763645831705,0.0,0.0,True
+White vs Black or African American,12994.76857852119,0.0,0.0,True
+White vs American Indian and Alaska Native,50.728794001449025,1.0605223590591053e-12,2.227096954024121e-11,True
+White vs Asian,4033.496601192751,0.0,0.0,True
+White vs Native Hawaiian and Other Pacific Islander,1439.7840010783964,0.0,0.0,True
+White vs Other Race,29286.419560610506,0.0,0.0,True
+Black or African American vs American Indian and Alaska Native,2007.6983257174047,0.0,0.0,True
+Black or African American vs Asian,4471.713191045321,0.0,0.0,True
+Black or African American vs Native Hawaiian and Other Pacific Islander,4896.451234955754,0.0,0.0,True
+Black or African American vs Other Race,48.69862917750128,2.9847497325499865e-12,6.267974438354972e-11,True
+American Indian and Alaska Native vs Asian,156.9102757687952,5.3549558108512925e-36,1.1245407202787715e-34,True
+American Indian and Alaska Native vs Native Hawaiian and Other Pacific Islander,1320.3847417810875,4.201049956287025e-289,8.822204908202751e-288,True
+American Indian and Alaska Native vs Other Race,1957.1070381201316,0.0,0.0,True
+Asian vs Native Hawaiian and Other Pacific Islander,2474.2300542221947,0.0,0.0,True
+Asian vs Other Race,7341.078048231328,0.0,0.0,True
+Native Hawaiian and Other Pacific Islander vs Other Race,4844.352374402551,0.0,0.0,True
