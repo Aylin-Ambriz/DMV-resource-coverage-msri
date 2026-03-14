@@ -2,7 +2,7 @@ import pandas as pd
 
 # ── 1. Load data ──────────────────────────────────────────────────────────────
 # Income CSV has two header rows; row 0 = codes, row 1 = labels. Use row 1 as header.
-income_raw = pd.read_csv("Cali_Income_Data.csv", header=1, dtype=str)
+income_raw = pd.read_csv("HH_Cali_Income_Data.csv", header=1, dtype=str)
 underserved_df = pd.read_csv("pre-processing/output/zip_underserved_mapping.csv", dtype=str)
 # ── 2. Extract the 10 Household income bracket columns (Estimate only) ────────
 # The readable labels in row 1 look like:
@@ -13,21 +13,21 @@ underserved_df = pd.read_csv("pre-processing/output/zip_underserved_mapping.csv"
 
 bracket_cols = [
     c for c in income_raw.columns
-    if c.startswith("Estimate!!Households!!Total!!")
+    if c.startswith("HH ")
 ]
 
 # Friendly short names for the contingency table columns
 friendly_names = {
-    "Estimate!!Households!!Total!!Less than $10,000":   "< $10K",
-    "Estimate!!Households!!Total!!$10,000 to $14,999":  "$10K–$15K",
-    "Estimate!!Households!!Total!!$15,000 to $24,999":  "$15K–$25K",
-    "Estimate!!Households!!Total!!$25,000 to $34,999":  "$25K–$35K",
-    "Estimate!!Households!!Total!!$35,000 to $49,999":  "$35K–$50K",
-    "Estimate!!Households!!Total!!$50,000 to $74,999":  "$50K–$75K",
-    "Estimate!!Households!!Total!!$75,000 to $99,999":  "$75K–$100K",
-    "Estimate!!Households!!Total!!$100,000 to $149,999":"$100K–$150K",
-    "Estimate!!Households!!Total!!$150,000 to $199,999":"$150K–$200K",
-    "Estimate!!Households!!Total!!$200,000 or more":    "$200K+",
+    "HH less than 10,000":   "< $10K",
+    "HH $10,000 to $14,999":  "$10K–$15K",
+    "HH $15,000 to $24,999":  "$15K–$25K",
+    "HH $25,000 to $34,999":  "$25K–$35K",
+    "HH $35,000 to $49,999":  "$35K–$50K",
+    "HH $50,000 to $74,999":  "$50K–$75K",
+    "HH $75,000 to $99,999":  "$75K–$100K",
+    "HH $100,000 to $149,999":"$100K–$150K",
+    "HH $150,000 to $199,999":"$150K–$200K",
+    "HH $200,000 or more":    "$200K+",
 }
 
 # ── 3. Parse zip codes from the Geography / GEO_ID column ────────────────────
@@ -82,6 +82,6 @@ print(f"  Underserved    : {(merged['STATUS'] == 'Underserved').sum()}")
 print(f"  Not Underserved: {(merged['STATUS'] == 'Not Underserved').sum()}")
 
 # ── 6. Save to CSV ────────────────────────────────────────────────────────────
-out_path = "contingency_table_income.csv"
+out_path = "contingency_table_HH_income.csv"
 contingency.to_csv(out_path)
 print(f"\nSaved → {out_path}")
