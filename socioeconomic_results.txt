@@ -1,0 +1,33 @@
+SOCIOECONOMIC ANALYSIS — California DMV Underserved ZIP Codes
+Using actual household counts (HH_Cali_Income_Data.csv)
+
+Table 2: Observed Household Income Distribution by ZIP Code Coverage Status
+
+Status            < $10K   $10K–$15K  $15K–$25K  $25K–$35K  $35K–$50K   $50K–$75K  $75K–$100K  $100K–$150K  $150K–$200K    $200K+      Total
+Not Underserved   23,943    381,668    674,141    690,684    973,286   1,491,871   1,186,878    1,649,327      899,413   1,272,637  9,243,848
+Underserved        8,396    125,618    235,382    239,090    342,618     515,693     429,479      585,680      327,968     466,623  3,276,547
+
+ZIP codes analyzed: 1,763 (CA range 90001–96162)
+  Underserved:     468 ZIP codes
+  Not Underserved: 1,295 ZIP codes
+
+TEST 1 — Chi-square Test of Independence
+
+H0: No difference in income distribution between underserved and not-underserved ZIPs
+H1: A difference exists
+
+  chi2(9) = 1,633.37,  p < .001
+  Result: Significant — reject H0
+  Minimum expected cell count: 8,463.0  (assumption well met)
+
+TEST 2 — Mann-Whitney U Test (Robustness Check)
+
+H0: Median household income is the same in underserved vs. not-underserved ZIPs
+H1: A difference in median household income exists
+
+  Underserved ZIP median income:     $69,083  (n = 468)
+  Not Underserved ZIP median income: $73,720  (n = 1,295)
+  Difference:                        -$4,637
+
+  U = 234,276,  p = 4.72e-02  (p < .05)
+  Result: Significant — reject H0
